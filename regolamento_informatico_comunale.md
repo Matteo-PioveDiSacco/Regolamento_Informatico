@@ -1,59 +1,43 @@
 # Regolamento aziendale per l’utilizzo del Sistema Informatico  
-## Comune di Piove di Sacco
+## Comune di Piove di Sacco ![Static Badge](https://img.shields.io/badge/Anno-2024-blue?style=plastic)
+
 ### Indice generale
-[1 Premessa]()
-[2 Nomi dei PC](url)
-3 Elenco dei Fornitori delle procedure software
-4 Informazioni riservate
-5 Utilizzo dei dispositivi informatici
-5.1 Utilizzo delle pen-drive USB
-5.2 Utilizzo dei supporti magnetici
-5.3 Utilizzo di CD e DVD
-6 Utilizzo della rete
-6.1 Uso della posta elettronica
-6.2 La Posta Elettronica Certificata (PEC)
-6.3 Il servizio BoxRoom
-6.4 Uso della rete Internet e dei relativi servizi
-7 Teleassistenza o Assistenza Remota
-8 Gestione delle password
-8.1 Password per la posta elettronica
-9 L'Inventario dei Dispositivi Informatici.
-10 Utilizzo di computer non appartenenti all'Inventario dei Dispositivi
-Informatici
-11 Utilizzo di computer portatili
-12 Manutenzioni, riparazioni e aggiornamenti
-13 Osservanza delle disposizioni in materia di Privacy
-14 Non osservanza della normativa aziendale
-15 Aggiornamento e revisione
+[1 Premessa](#1)  
+[2 Nomi dei PC](#2)  
+[3 Elenco dei Fornitori delle procedure software](#3)  
+[4 Informazioni riservate](#4)  
+[5 Utilizzo dei dispositivi informatici](#5)  
+>[5.1 Utilizzo delle pen-drive USB](#5.1)  
+>[5.2 Utilizzo dei supporti magnetici](#5.2)  
+>[5.3 Utilizzo di CD e DVD](#5.3)  
 
-### 1 Premessa (#premessa)
-La progressiva diffusione delle nuove tecnologie informatiche, e
-l'accesso alla rete Internet dai Personal Computer, espone il Comune di Piove
-di Sacco ai rischi di un coinvolgimento sia patrimoniale che penale, creando
-problemi alla sicurezza e all’immagine del Comune stesso.
-Premesso quindi che l’utilizzo delle risorse informatiche e telematiche del
-Comune deve sempre ispirarsi al principio della diligenza e correttezza,
-comportamenti che normalmente si adottano nell’ambito di un rapporto di
-lavoro, il Comune di Piove di Sacco ha adottato un Regolamento interno
-diretto ad evitare che comportamenti inconsapevoli possano innescare
-problemi o minacce alla sicurezza nel trattamento dei dati.
-Il presente regolamento si applica alle apparecchiature presenti
-all'interno dell'Inventario dei Dispositivi Informatici (vedere il capitolo 9) e, in
-misura ridotta, anche a quelle che non ne fanno parte e tuttavia vengono
-utilizzate nei locali del Comune di Piove di Sacco (vedere il capitolo 10).
-### 2 Nomi dei PC (#nomi_dei_pc)
-Ogni PC collegato alla rete comunale ha un codice univoco chiamato
-“Nome PC” che lo identifica nel dominio. L'operatore è in grado di conoscere il
-nome del PC in dotazione osservando il desktop nell'angolo in basso a destra
-come mostrato nell'immagine seguente:
-Conoscere il nome del PC su cui si sta lavorando, o conoscere il modo di
-individuarlo, è importante per avvalersi dell'assistenza tecnica remota.
-### 3 Elenco dei Fornitori delle procedure software
-Quello che segue è l'elenco delle aziende software con le quali il
-Comune di Piove di Sacco ha sottoscritto, per l'anno 2013, un contratto di
-assistenza. Gli utenti che utilizzano le procedure di tali aziende sono
-autorizzati a contattarle per servirsi del servizio di hot line telefonica.
+[6 Utilizzo della rete](#6)
+>[6.1 Uso della posta elettronica](#6.1)  
+>[6.2 La Posta Elettronica Certificata (PEC)](#6.2)  
+>[6.3 Il servizio BoxRoom](#6.3)  
+>[6.4 Uso della rete Internet e dei relativi servizi](#6.4)
 
+[7 Teleassistenza o Assistenza Remota](#7)  
+[8 Gestione delle password](#8)  
+[8.1 Password per la posta elettronica](#8.1)  
+[9 L'Inventario dei Dispositivi Informatici.](#9)  
+[10 Utilizzo di computer non appartenenti all'Inventario dei Dispositivi Informatici](#10)  
+[11 Utilizzo di computer portatili](#11)  
+[12 Manutenzioni, riparazioni e aggiornamenti](#12)  
+[13 Osservanza delle disposizioni in materia di Privacy](#13)  
+[14 Non osservanza della normativa aziendale](#14)  
+[15 Aggiornamento e revisione](#15)  
+
+### 1 Premessa <a name="1"></a>
+La progressiva diffusione delle nuove tecnologie informatiche, e l'accesso alla rete Internet dai Personal Computer, espone il Comune di Piove di Sacco ai rischi di un coinvolgimento sia patrimoniale che penale, creando problemi alla sicurezza e all’immagine del Comune stesso.  
+Premesso quindi che l’utilizzo delle risorse informatiche e telematiche del Comune deve sempre ispirarsi al principio della diligenza e correttezza, comportamenti che normalmente si adottano nell’ambito di un rapporto di lavoro, il Comune di Piove di Sacco ha adottato un Regolamento interno diretto ad evitare che comportamenti inconsapevoli possano innescare problemi o minacce alla sicurezza nel trattamento dei dati.  
+Il presente regolamento si applica alle apparecchiature presenti all'interno dell'Inventario dei Dispositivi Informatici (vedere il capitolo 9) e, in misura ridotta, anche a quelle che non ne fanno parte e tuttavia vengono utilizzate nei locali del Comune di Piove di Sacco (vedere il capitolo 10).  
+### 2 Nomi dei PC <a name="2"></a>
+Ogni PC collegato alla rete comunale ha un codice univoco chiamato “Nome PC” che lo identifica nel dominio. L'operatore è in grado di conoscere il nome del PC in dotazione osservando il desktop nell'angolo in basso a destra come mostrato nell'immagine seguente:  
+Conoscere il nome del PC su cui si sta lavorando, o conoscere il modo di individuarlo, è importante per avvalersi dell'assistenza tecnica remota.  
+### 3 Elenco dei Fornitori delle procedure software <a name="3"></a>
+Quello che segue è l'elenco delle aziende software con le quali il Comune di Piove di Sacco ha sottoscritto, per l'anno 2013, un contratto di assistenza. 
+Gli utenti che utilizzano le procedure di tali aziende sono autorizzati a contattarle per servirsi del servizio di hot line telefonica.  
 MEGASP S.r.l. - Seconda strada 16/18, 35129
 Padova (PD)
 Tel. 049 843 06 00, Fax 049 807 60 29
@@ -81,83 +65,31 @@ Tel. 049 820 14 50, Fax 049 820 19 29,
 N.Verde 800 18 50 17
 REGIONE VENETO – Via Pacinotti 4, 30170 Porto
 Marghera (VE)
-Tel. 041 27 92 202, Fax 041 27 92 218
-### 4 Informazioni riservate
-Per garantire un ulteriore livello di sicurezza sull'impianto informatico e
-sugli apparati elettronici in funzione all'interno del Comune è opportuno che
-non venga divulgata pubblicamente, senza previa autorizzazione del C.E.D.,
-alcuna informazione di tipo tecnico o finanziario da cui potrebbe essere
-possibile risalire alla situazione informatica attualmente in essere; ad esempio:
-il numero di PC installati, i nomi delle aziende che provvedono alla
-manutenzione, la data di acquisto delle apparecchiature, l'ammontare annuo
-in euro delle spese di manutenzione, l'ammontare annuo in euro degli
-investimenti, etc.
-Tali dati inoltre, qualora contengano nomi di società o indirizzi di posta
-elettronica o altri dati riservati, devono rimanere particolarmente tutelati per
-non incorrere involontariamente al fenomeno dello spam o peggio alla
-violazione degli articoli 23 e 25 del Dlgs. 196/2003.
-Per questi motivi sono inoltre vietate le interviste telefoniche e la
-compilazione di questionari cartacei o elettronici con finalità di raccolta dati
-tranne nei casi in cui l'azienda richiedente stia operando su mandato
-particolare dello Stato (es. censimenti ISTAT, richieste del Prefetto, etc.).
-### 5 Utilizzo dei dispositivi informatici
-I dispositivi informatici (Personal Computer, Palmari, etc.) affidati ai
-dipendenti sono degli strumenti di lavoro.
-Ogni utilizzo non inerente all’attività lavorativa può contribuire ad
-innescare disservizi, costi di manutenzione e, soprattutto, minacce alla
-sicurezza.
-L’accesso all’elaboratore è protetto da password che deve essere
-custodita dall’utente con la massima diligenza e non divulgata.
-La stessa password potrà essere richiesta per l’accesso alla rete, per il
-collegamento a Internet o per gli applicativi.
-Si ricorda che ogni singola postazione non deve essere lasciata
-incustodita in modo da permettere accesso a persone non autorizzate. La
-postazione potrà essere protetta mediante utilizzo di screen-saver con
-password o effettuando l’operazione di logout o logout rapido (tasto “” e
-“L”).
-Non è consentito modificare le impostazioni del BIOS o del software di
-configurazione hardware del sistema.
-Non è consentita nessuna operazione di forzatura fisica dei dispositivi.
-L’Amministratore di Sistema potrà accedere ai dati e agli strumenti
-informatici esclusivamente per permettere alla stessa azienda, titolare del
-trattamento, di accedere a dati trattati da ogni incaricato con le modalità fissate
-dalla stessa azienda, al solo fine di garantire l’operatività, la sicurezza del
-sistema ed il normale svolgimento dell’attività aziendale nei casi in cui si renda
-indispensabile ed indifferibile l’intervento, ad esempio in caso di prolungata
-assenza od impedimento dell’incaricato, informando tempestivamente
-l’incaricato dell’intervento di accesso realizzato.
-Non è consentito installare e/o eseguire programmi provenienti
-dall’esterno salvo previa autorizzazione (in forma scritta tramite e-mail)
-dell’Amministratore di Sistema, in quanto sussiste il grave pericolo di portare
-virus informatici e di alterare la stabilità delle applicazioni dell’elaboratore.
-Non è consentito l’uso di programmi diversi da quelli distribuiti ed
-installati ufficialmente dall'Amministratore di Sistema del Comune di Piove di
-Sacco. L’inosservanza di questa disposizione, infatti, oltre al rischio di
-danneggiamenti del sistema per incompatibilità con il software esistente, può
-esporre l’azienda a gravi responsabilità civili ed anche penali in caso di
-violazione della normativa a tutela dei diritti d’autore sul software (D. Lgs.
-518/92 sulla tutela giuridica del software e L. 248/2000 nuove norme di tutela
-del diritto d’autore) che impone la presenza nel sistema di software
-regolarmente licenziato o comunque libero.
-Non è consentito all’utente modificare le caratteristiche impostate sul
-proprio dispositivo informatico ad esclusione di quelle identificate come
-personalizzazioni, salvo previa autorizzazione (in forma scritta tramite e-mail)
-dell’Amministratore di Sistema.
-Gli elaboratori devono essere spenti ogni sera prima di lasciare gli uffici o
-in caso di assenze prolungate dall’ufficio, salvo diversa disposizione da parte
-dell’Amministratore di Sistema.
-In ogni caso lasciare un elaboratore incustodito connesso alla rete può
-essere causa di utilizzo da parte di terzi senza che vi sia la possibilità di
-provarne in seguito l’indebito uso.
-Non è consentita l’installazione sull'elaboratore in dotazione di nessun
-dispositivo di memorizzazione, comunicazione o altro (come ad esempio
-masterizzatori, modem, dispositivi di memorizzazione USB, dispositivi
-wireless), se non con l’autorizzazione (in forma scritta tramite e-mail)
-dell’Amministratore di Sistema.
-Ogni utente deve prestare la massima attenzione ai supporti di origine
-esterna, avvertendo immediatamente l’Amministratore di Sistema nel caso in
-cui vengano rilevati virus.
-#### 5.1 Utilizzo delle pen-drive USB
+Tel. 041 27 92 202, Fax 041 27 92 218  
+### 4 Informazioni riservate <a name="4"></a>
+Per garantire un ulteriore livello di sicurezza sull'impianto informatico e sugli apparati elettronici in funzione all'interno del Comune è opportuno che non venga divulgata pubblicamente, senza previa autorizzazione del C.E.D., alcuna informazione di tipo tecnico o finanziario da cui potrebbe essere possibile risalire alla situazione informatica attualmente in essere; ad esempio: il numero di PC installati, i nomi delle aziende che provvedono alla
+manutenzione, la data di acquisto delle apparecchiature, l'ammontare annuo in euro delle spese di manutenzione, l'ammontare annuo in euro degli investimenti, etc.  
+Tali dati inoltre, qualora contengano nomi di società o indirizzi di posta elettronica o altri dati riservati, devono rimanere particolarmente tutelati per non incorrere involontariamente al fenomeno dello spam o peggio alla violazione degli articoli 23 e 25 del Dlgs. 196/2003.  
+Per questi motivi sono inoltre vietate le interviste telefoniche e la compilazione di questionari cartacei o elettronici con finalità di raccolta dati tranne nei casi in cui l'azienda richiedente stia operando su mandato particolare dello Stato (es. censimenti ISTAT, richieste del Prefetto, etc.).  
+### 5 Utilizzo dei dispositivi informatici <a name="5"></a>
+I dispositivi informatici (Personal Computer, Palmari, etc.) affidati ai dipendenti sono degli strumenti di lavoro.  
+Ogni utilizzo non inerente all’attività lavorativa può contribuire ad innescare disservizi, costi di manutenzione e, soprattutto, minacce alla sicurezza.
+L’accesso all’elaboratore è protetto da password che deve essere custodita dall’utente con la massima diligenza e non divulgata.  
+La stessa password potrà essere richiesta per l’accesso alla rete, per il collegamento a Internet o per gli applicativi.  
+Si ricorda che ogni singola postazione non deve essere lasciata incustodita in modo da permettere accesso a persone non autorizzate.
+La postazione potrà essere protetta mediante utilizzo di screen-saver con password o effettuando l’operazione di logout o logout rapido (tasto “” e “L”).  
+Non è consentito modificare le impostazioni del BIOS o del software di configurazione hardware del sistema.  
+Non è consentita nessuna operazione di forzatura fisica dei dispositivi.  
+L’Amministratore di Sistema potrà accedere ai dati e agli strumenti informatici esclusivamente per permettere alla stessa azienda, titolare del trattamento, di accedere a dati trattati da ogni incaricato con le modalità fissate dalla stessa azienda, al solo fine di garantire l’operatività, la sicurezza del sistema ed il normale svolgimento dell’attività aziendale nei casi in cui si renda indispensabile ed indifferibile l’intervento, ad esempio in caso di prolungata assenza od impedimento dell’incaricato, informando tempestivamente l’incaricato dell’intervento di accesso realizzato.  
+Non è consentito installare e/o eseguire programmi provenienti dall’esterno salvo previa autorizzazione (in forma scritta tramite e-mail) dell’Amministratore di Sistema, in quanto sussiste il grave pericolo di portare virus informatici e di alterare la stabilità delle applicazioni ell’elaboratore.  
+Non è consentito l’uso di programmi diversi da quelli distribuiti ed installati ufficialmente dall'Amministratore di Sistema del Comune di Piove di Sacco.  
+L’inosservanza di questa disposizione, infatti, oltre al rischio di danneggiamenti del sistema per incompatibilità con il software esistente, può esporre l’azienda a gravi responsabilità civili ed anche penali in caso di violazione della normativa a tutela dei diritti d’autore sul software (D. Lgs. 518/92 sulla tutela giuridica del software e L. 248/2000 nuove norme di tutela del diritto d’autore) che impone la presenza nel sistema di software regolarmente licenziato o comunque libero.  
+Non è consentito all’utente modificare le caratteristiche impostate sul proprio dispositivo informatico ad esclusione di quelle identificate come personalizzazioni, salvo previa autorizzazione (in forma scritta tramite e-mail) dell’Amministratore di Sistema.
+Gli elaboratori devono essere spenti ogni sera prima di lasciare gli uffici o in caso di assenze prolungate dall’ufficio, salvo diversa disposizione da parte dell’Amministratore di Sistema.  
+In ogni caso lasciare un elaboratore incustodito connesso alla rete può essere causa di utilizzo da parte di terzi senza che vi sia la possibilità di provarne in seguito l’indebito uso.  
+Non è consentita l’installazione sull'elaboratore in dotazione di nessun dispositivo di memorizzazione, comunicazione o altro (come ad esempio masterizzatori, modem, dispositivi di memorizzazione USB, dispositivi wireless), se non con l’autorizzazione (in forma scritta tramite e-mail) dell’Amministratore di Sistema.  
+Ogni utente deve prestare la massima attenzione ai supporti di origine esterna, avvertendo immediatamente l’Amministratore di Sistema nel caso in cui vengano rilevati virus.  
+#### 5.1 Utilizzo delle pen-drive USB <a name="5.1"></a>
 Si ricorda che l'uso di pen-drive USB è fortemente deprecato in quanto
 fonte sicura di virus informatici; il mezzo consigliato per il trasferimento dei dati
 è la posta elettronica che automaticamente controlla i documenti allegati
@@ -170,7 +102,7 @@ l'ambiente essendo rifiuto non riciclabile.
 Qualora si dovesse comunque procedere all'uso delle pen-drive USB, è
 necessario contattare l'Amministratore di Sistema per eseguire un controllo
 preventivo sui dati in esse contenuti.
-#### 5.2 Utilizzo dei supporti magnetici
+#### 5.2 Utilizzo dei supporti magnetici <a name="5.2"></a>
 Quando presenti, tutti i supporti magnetici riutilizzabili (dischetti, cassette,
 cartucce, dispositivi di memorizzazione USB, etc.) contenenti dati sensibili e
 giudiziari devono essere trattati con particolare cautela onde evitare che il loro
@@ -180,7 +112,7 @@ memorizzati anche dopo la loro cancellazione.
 I supporti magnetici contenenti dati sensibili e giudiziari (punto 21 del
 disciplinare tecnico, D. Lgs. 196 del 30/06/2003) devono essere custoditi in
 archivi chiusi a chiave.
-#### 5.3 Utilizzo di CD e DVD
+#### 5.3 Utilizzo di CD e DVD <a name="5.3"></a>
 I supporti come i CD o i DVD con contenuto non autoinstallante possono
 essere utilizzati liberamente.
 Diversamente, quando un CD o un DVD tenta di installare del software
@@ -196,7 +128,7 @@ tali file nei PC del Comune di Piove di Sacco o che detenessero copie
 masterizzate non autorizzate di CD o DVD, di procedere alla cancellazione
 definitiva dei file e alla rimozione dei supporti contraffatti al fine di non
 incorrere nelle sanzioni previste dalla normativa vigente.
-### 6 Utilizzo della rete
+### 6 Utilizzo della rete <a name="6"></a>
 La “rete” è l'insieme di servizi e apparecchiature tra di loro collegate
 attraverso cavi speciali che consentono agli utenti di utilizzare le risorse
 informatiche a prescindere dalla loro dislocazione nell'area del Palazzo
@@ -229,7 +161,7 @@ In caso di stampe molto lunghe scegliere la stampante più adatta come
 indicato dall’Amministratore di Sistema e pianificare se possibile la stampa in
 particolari momenti della giornata in modo da non interferire con la normale
 attività lavorativa.
-#### 6.1 Uso della posta elettronica
+#### 6.1 Uso della posta elettronica <a name="6.1"></a>
 La casella di posta elettronica, assegnata dal Comune di Piove di Sacco
 all’utente, appartenente al dominio “comune.piove.pd.it” o altri domini
 istituzionali utilizzati dal Comune di Piove di Sacco, è uno strumento di lavoro.
@@ -283,7 +215,7 @@ non conosciuti).
 ricevere messaggi di tale tipo, si deve comunicarlo immediatamente
 all’Amministratore di Sistema. Non si devono in alcun caso attivare gli allegati
 di tali messaggi.
-#### 6.2 La Posta Elettronica Certificata (PEC)
+#### 6.2 La Posta Elettronica Certificata (PEC) <a name="6.2"></a>
 La posta elettronica certificata (PEC) è uno strumento che permette di
 dare ad un messaggio di posta elettronica lo stesso valore legale di una
 raccomandata con avviso di ricevimento tradizionale.
@@ -334,7 +266,7 @@ lo scambio di messaggi tra “@pec.comune.piove.pd.it” e
 Questa particolarità, oltre ad essere una metodologia che non trova alcuna
 utilità pratica o di qualche valenza legale, è una conseguenza di un aspetto
 tecnico legato alla gestione dei nomi di dominio nei DNS nazionali.
-#### 6.3 Il servizio BoxRoom
+#### 6.3 Il servizio BoxRoom <a name="6.3"></a>
 Il servizio BoxRoom è un particolare servizio di rete che permette agli
 utenti del Comune di mettere a disposizione al mondo esterno file di grandi
 dimensioni utilizzando internet. In questo modo l'uso di floppy disk, CD, DVD,
@@ -351,7 +283,7 @@ destinatario viene in possesso dei dati richiesti, e la stessa transazione viene
 documentata mediante l'uso di messaggi di posta elettronica.
 La documentazione sull'utilizzo del servizio BoxRoom è disponibile
 all'indirizzo intranet “https://linux.comune.piove.pd.it/dps/index.php4”.
-#### 6.4 Uso della rete Internet e dei relativi servizi
+#### 6.4 Uso della rete Internet e dei relativi servizi <a name="6.4"></a>
 L'accesso a Internet avviene in due modalità: la prima, o “Modalità a lista
 bianca”, è quella consentita a tutti gli utenti della rete comunale e prevede una
 navigazione libera verso tutti i siti appartenenti ad una lista di siti sicuri; la
@@ -387,7 +319,7 @@ automatici installati nei server comunali; tali tracciati possono essere utilizz
 dal C.E.D. per effettuare controlli generici e per garantire la qualità del servizio;
 inoltre, qualora dovesse presentarsi l'eventualità, possono essere consegnati
 alle Autorità competenti su specifica richiesta.
-### 7 Teleassistenza o Assistenza Remota
+### 7 Teleassistenza o Assistenza Remota <a name="7"></a>
 Con questi termini si definisce l'azione di prendere il controllo di un PC
 senza fisicamente recarsi nel luogo dove il PC è installato; per fare questo è
 necessario che il PC sia acceso e collegato alla rete informatica; chi presta
@@ -418,7 +350,7 @@ dps/index.php4”.
 Tutti gli accessi vengono registrati in appositi file di log nelle macchine
 server del C.E.D. come da provvedimento 27.11.2008 del Garante della
 Privacy
-### 8 Gestione delle password
+### 8 Gestione delle password <a name="8"></a>
 Le password di ingresso alla rete, di accesso ai programmi e dello
 screen saver, sono previste e attribuite inizialmente dall’Amministratore di
 Sistema.
@@ -440,7 +372,7 @@ essere immediatamente sostituita, dandone comunicazione all’Amministratore
 di Sistema.
 Qualora l’utente venisse a conoscenza delle password di altro utente, è
 tenuto a darne immediata notizia all’Amministratore di Sistema.
-#### 8.1 Password per la posta elettronica
+#### 8.1 Password per la posta elettronica <a name="8.1"></a>
 Si fa presente che i PC client della rete comunale sono collegati ad un
 dominio di autenticazione che utilizza la tecnologia “Single Sign On”; questo
 significa che la password scelta dall'operatore per il collegamento alla rete
@@ -449,7 +381,7 @@ essersi scollegati dalla rete con “Ctrl+Alt+Canc”) è la stessa utilizzata d
 programma Thunderbird per gestire la posta elettronica; pertanto, modificando
 la password iniziale di accesso alla rete, viene automaticamente modificata
 anche la password per la lettura della posta elettronica.
-### 9 L'Inventario dei Dispositivi Informatici
+### 9 L'Inventario dei Dispositivi Informatici <a name="9"></a>
 Viene definito “Inventario dei Dispositivi Informatici” la lista di tutti i
 dispositivi informatici (computer, stampanti, monitor, etc.) che rientrano nel
 “Parco Macchine” del Comune di Piove di Sacco. Il C.E.D., il Titolare del
@@ -461,8 +393,7 @@ Una lista completa ed aggiornata in tempo reale delle postazioni
 registrate nell' Inventario dei Dispositivi Informatici si trova consultando il sito
 intranet:
 “https://linux.comune.piove.pd.it/dps/index.php4”.
-### 10 Utilizzo di computer non appartenenti all'Inventario
-dei Dispositivi Informatici
+### 10 Utilizzo di computer non appartenenti all'Inventario dei Dispositivi Informatici <a name="10"></a>
 L'utilizzo di apparecchiature non fornite dal C.E.D., o comunque non
 presenti all'interno dell'Inventario dei Dispositivi Informatici, è ovviamente
 consentito, in questo caso non si applicano le regole descritte nel presente
@@ -483,7 +414,7 @@ essere inserito all'interno dell'Inventario Informatico Comunale, dovrà
 provvedere autonomamente a rispettare e garantire tutte le norme di sicurezza
 e le misure minime previste dal Dlgs 196/2003, nonché produrre annualmente
 entro il 31 marzo il documento D.P.S. Relativo a quel sistema.
-### 11 Utilizzo di computer portatili
+### 11 Utilizzo di computer portatili <a name="11"></a>
 L’utente è responsabile del computer portatile assegnatogli
 dall’Amministratore di Sistema e deve custodirlo con diligenza sia durante gli
 spostamenti sia durante l’utilizzo nel luogo di lavoro.
@@ -498,7 +429,7 @@ che, a causa di un uso improprio da parte di qualche utente maldestro, sia
 necessario reinstallare l'intero sistema operativo portando il computer alla
 situazione iniziale di fabbrica; è chiaro che in questa situazione tutti i dati
 utente in esso contenuti verrebbero perduti irrimediabilmente.
-### 12 Manutenzioni, riparazioni e aggiornamenti
+### 12 Manutenzioni, riparazioni e aggiornamenti <a name="12"></a>
 Le operazioni di aggiornamento e di manutenzione hardware/software
 vengono svolte dai tecnici del C.E.D., o da incaricati esterni autorizzati,
 solamente sulle macchine appartenenti all'Inventario dei Dispositivi Informatici
@@ -512,16 +443,16 @@ qualora dovesse essere necessario provvedere ad una manutenzione sulle
 apparecchiature non appartenenti all'Inventario dei Dispositivi Informatici, sarà
 cura del responsabile delle apparecchiature attivare un contratto di
 manutenzione con una ditta esterna.
-### 13 Osservanza delle disposizioni in materia di Privacy
+### 13 Osservanza delle disposizioni in materia di Privacy <a name="13"></a>
 È obbligatorio attenersi alle disposizioni in materia di Privacy e di misure
 minime di sicurezza, come indicate nella lettera di designazione di incaricato
 del trattamento dei dati ai sensi del disciplinare tecnico allegato al d.lgs.vo n.
 196/2003 e successive modifiche e integrazioni.
-### 14 Non osservanza della normativa aziendale
+### 14 Non osservanza della normativa aziendale <a name="14"></a>
 Il mancato rispetto o la violazione delle regole contenute nel presente
 regolamento è perseguibile con provvedimenti disciplinari nonché con le azioni
 civili e penali consentite.
-### 15 Aggiornamento e revisione
+### 15 Aggiornamento e revisione <a name="15"></a>
 Tutti gli utenti possono proporre integrazioni e osservazioni al presente
 Regolamento. Le proposte verranno esaminate dall'Amministrazione
 Comunale.
