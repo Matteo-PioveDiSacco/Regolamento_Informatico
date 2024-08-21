@@ -1,8 +1,8 @@
 # Regolamento aziendale per l’utilizzo del Sistema Informatico  
 ## Comune di Piove di Sacco
 ### Indice generale
-1 Premessa
-2 Nomi dei PC
+[1 Premessa]()
+[2 Nomi dei PC](url)
 3 Elenco dei Fornitori delle procedure software
 4 Informazioni riservate
 5 Utilizzo dei dispositivi informatici
@@ -26,7 +26,7 @@ Informatici
 14 Non osservanza della normativa aziendale
 15 Aggiornamento e revisione
 
-### 1 Premessa
+### 1 Premessa (#premessa)
 La progressiva diffusione delle nuove tecnologie informatiche, e
 l'accesso alla rete Internet dai Personal Computer, espone il Comune di Piove
 di Sacco ai rischi di un coinvolgimento sia patrimoniale che penale, creando
@@ -41,7 +41,7 @@ Il presente regolamento si applica alle apparecchiature presenti
 all'interno dell'Inventario dei Dispositivi Informatici (vedere il capitolo 9) e, in
 misura ridotta, anche a quelle che non ne fanno parte e tuttavia vengono
 utilizzate nei locali del Comune di Piove di Sacco (vedere il capitolo 10).
-### 2 Nomi dei PC
+### 2 Nomi dei PC (#nomi_dei_pc)
 Ogni PC collegato alla rete comunale ha un codice univoco chiamato
 “Nome PC” che lo identifica nel dominio. L'operatore è in grado di conoscere il
 nome del PC in dotazione osservando il desktop nell'angolo in basso a destra
