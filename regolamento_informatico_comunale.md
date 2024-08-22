@@ -62,6 +62,7 @@ Non è consentito all’utente modificare le caratteristiche impostate sul propr
 Gli elaboratori **devono essere spenti ogni sera** prima di lasciare gli uffici e in caso di assenze prolungate dall’ufficio, salvo diversa disposizione da parte dell’Amministratore di Sistema. Ricordate che lasciare un elaboratore acceso e incustodito connesso alla rete può essere causa di utilizzo da parte di terzi senza che vi sia la possibilità di provarne in seguito l’indebito uso.  
 Non è consentita l’installazione o la connessione nel elaboratore in dotazione di alcun dispositivo di memorizzazione, comunicazione o altro (come ad esempio masterizzatori, modem, chiavette USB, dispositivi wireless, etc.), se non con l’autorizzazione (in forma scritta tramite e-mail) dell’Amministratore di Sistema.  
 Ogni utente deve prestare la massima attenzione ai supporti di origine esterna, avvertendo immediatamente l’Amministratore di Sistema nel caso in cui vengano rilevati virus.  
+[:bookmark_tabs: Torna all'indice](#indice)  
 
 #### 5.1 Utilizzo delle pen-drive e memorie di massa USB <a name="5.1"></a>
 Si ricorda che con il termine memorie di massa ci si riferisce a qualunque oggetto composto da parti meccaniche in movimento oppure da circuiti integrati allo stato solido in grado di contenere dati informatici. Le memorie di massa si interfacciano al sistema centrale mediante la porta USB e dopo l'inserimento sono immediatamente disponibili.  
@@ -76,7 +77,8 @@ Qualora si dovesse comunque procedere con l'uso delle memorie di massa USB ad es
 > ⚠️ _Attenzione!_<br>
 > _Non è ammesso l'uso di memorie di massa USB che non siano state preventivamente preparate e controllate dal C.E.D., ogni dispositivo estraneo deve essere rimosso e consegnato al C.E.D. per essere riformattato e criptato._
 
-Si ricorda che anche un telefonino collegato alla porta USB del computer per la ricarica può considerarsi una memoria di massa e quindi rappresentare una minaccia, pertanto il collegamento al PC del telefonino **non viene autorizzato**.
+Si ricorda che anche un telefonino collegato alla porta USB del computer per la ricarica può considerarsi una memoria di massa e quindi rappresentare una minaccia, pertanto il collegamento al PC del telefonino **non viene autorizzato**.  
+[:bookmark_tabs: Torna all'indice](#indice)  
 
  #### 5.2 Precauzioni durante l'uso delle memorie di massa <a name="5.2"></a>
 Tutti i supporti di memorie di massa (dischetti, cassette, cartucce, CD, DVD, dispositivi di memorizzazione USB, etc.) contenenti dati sensibili e giudiziari devono essere trattati con particolare cautela onde evitare che il loro contenuto possa essere recuperato (punto 22 del disciplinare tecnico, D. Lgs. 196 del 30/06/2003). Una persona esperta potrebbe infatti recuperare i dati memorizzati anche dopo la loro cancellazione. Qualunque supporto contenente dati sensibili e giudiziari (punto 21 del disciplinare tecnico, D. Lgs. 196 del 30/06/2003) **deve essere criptato** e custodito in archivi chiusi a chiave.  
