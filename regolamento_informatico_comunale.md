@@ -1,7 +1,7 @@
 # Regolamento aziendale per l’utilizzo del Sistema Informatico  
 ## Comune di Piove di Sacco ![Static Badge](https://img.shields.io/badge/Anno-2024-blue?style=plastic)
 
-### Indice generale
+### Indice generale <a name="indice"></a>
 [1 Premessa](#1)  
 [2 Nomi dei PC](#2)  
 [3 Elenco dei Fornitori delle procedure software](#3)  
@@ -30,47 +30,28 @@
 
 ### 1 Premessa <a name="1"></a>
 La progressiva diffusione delle nuove tecnologie informatiche, e l'accesso alla rete Internet dai Personal Computer, espone il Comune di Piove di Sacco ai rischi di un coinvolgimento sia patrimoniale che penale, creando problemi alla sicurezza e all’immagine del Comune stesso.  
-Premesso quindi che l’utilizzo delle risorse informatiche e telematiche del Comune deve sempre ispirarsi al principio della diligenza e correttezza, comportamenti che normalmente si adottano nell’ambito di un rapporto di lavoro, il Comune di Piove di Sacco ha adottato un Regolamento interno diretto ad evitare che comportamenti inconsapevoli possano innescare problemi o minacce alla sicurezza nel trattamento dei dati.  
-Il presente regolamento si applica alle apparecchiature presenti all'interno dell'Inventario dei Dispositivi Informatici (vedere il capitolo 9) e, in misura ridotta, anche a quelle che non ne fanno parte e tuttavia vengono utilizzate nei locali del Comune di Piove di Sacco (vedere il capitolo 10).  
+Premesso quindi che l’utilizzo delle risorse informatiche e telematiche del Comune deve sempre ispirarsi al **principio della diligenza e correttezza**, comportamenti che normalmente si adottano nell’ambito di un rapporto di lavoro, il Comune di Piove di Sacco ha adottato un Regolamento interno diretto ad evitare che comportamenti inconsapevoli possano innescare problemi o minacce alla sicurezza nel trattamento dei dati.  
+Il presente regolamento si applica alle apparecchiature presenti all'interno dell'[**Inventario dei Dispositivi Informatici**](#9) (vedere il capitolo 9) e, in misura ridotta, anche a quelle che non ne fanno parte e tuttavia vengono utilizzate nei locali del Comune di Piove di Sacco (vedere il [capitolo 10](#10)).  
+[:bookmark_tabs: Torna all'indice](#indice)  
+ 
 ### 2 Nomi dei PC <a name="2"></a>
-Ogni PC collegato alla rete comunale ha un codice univoco chiamato “Nome PC” che lo identifica nel dominio. L'operatore è in grado di conoscere il nome del PC in dotazione osservando il desktop nell'angolo in basso a destra come mostrato nell'immagine seguente:  
-Conoscere il nome del PC su cui si sta lavorando, o conoscere il modo di individuarlo, è importante per avvalersi dell'assistenza tecnica remota.  
+Ogni PC collegato alla rete comunale ha un codice univoco chiamato “Nome Computer” che lo identifica nel dominio. L'operatore è in grado di conoscere il nome del PC in dotazione osservando il desktop nell'angolo in basso a destra come mostrato nell'immagine seguente:  
+![nomecomputer](https://github.com/user-attachments/assets/4120cd2f-fc26-42ea-bbd8-0aa4fc92c2e2)
+
+Conoscere il nome del PC su cui si sta lavorando è fondamentale per avvalersi dell'assistenza tecnica remota che lo richiederà ad ogni sessione di collegamento (vedere [capitolo 7](#7)).  
+[:bookmark_tabs: Torna all'indice](#indice)  
+
 ### 3 Elenco dei Fornitori delle procedure software <a name="3"></a>
-Quello che segue è l'elenco delle aziende software con le quali il Comune di Piove di Sacco ha sottoscritto, per l'anno 2013, un contratto di assistenza. 
-Gli utenti che utilizzano le procedure di tali aziende sono autorizzati a contattarle per servirsi del servizio di hot line telefonica.  
-MEGASP S.r.l. - Seconda strada 16/18, 35129
-Padova (PD)
-Tel. 049 843 06 00, Fax 049 807 60 29
-INNOVARE 24 S.p.a. - Via A. Gramsci 36, 46020
-Pegognaga (MN)
-Tel. 0376 552501, Fax 0376 552270
-Progetti di Impresa S.r.l. - Via C. Zucchi 31, 41100
-(MO)
-Tel. 059 822304, Fax 059 822408
-Kibernetes S.r.l. - Via Galileo Galilei 1, 31057 –
-Silea (TV)
-Tel. 0422 363693, Fax 0422 460125
-Halley Informatica – Via Lombardi 14 int. 7/8,
-30020 Marcon (VE)
-Tel. 800 400 250, Fax 041 5951460
-RHX Studio Associato – Piazza Resistenza 5/1,
-31053 Pieve di Soligo (TV)
-Tel. 0437 3730899, Fax 0437 3731180
-Puntonet Servizi S.r.l. - Via Antonio Gramsci 23,
-35028 Piove di Sacco (PD)
-Tel. 049 5842845, Fax 049 5841774
-PROVINCIA di PADOVA – Piazza Antenore 3,
-35121 Padova (PD)
-Tel. 049 820 14 50, Fax 049 820 19 29,
-N.Verde 800 18 50 17
-REGIONE VENETO – Via Pacinotti 4, 30170 Porto
-Marghera (VE)
-Tel. 041 27 92 202, Fax 041 27 92 218  
+
+[:bookmark_tabs: Torna all'indice](#indice)  
+
 ### 4 Informazioni riservate <a name="4"></a>
-Per garantire un ulteriore livello di sicurezza sull'impianto informatico e sugli apparati elettronici in funzione all'interno del Comune è opportuno che non venga divulgata pubblicamente, senza previa autorizzazione del C.E.D., alcuna informazione di tipo tecnico o finanziario da cui potrebbe essere possibile risalire alla situazione informatica attualmente in essere; ad esempio: il numero di PC installati, i nomi delle aziende che provvedono alla
-manutenzione, la data di acquisto delle apparecchiature, l'ammontare annuo in euro delle spese di manutenzione, l'ammontare annuo in euro degli investimenti, etc.  
-Tali dati inoltre, qualora contengano nomi di società o indirizzi di posta elettronica o altri dati riservati, devono rimanere particolarmente tutelati per non incorrere involontariamente al fenomeno dello spam o peggio alla violazione degli articoli 23 e 25 del Dlgs. 196/2003.  
-Per questi motivi sono inoltre vietate le interviste telefoniche e la compilazione di questionari cartacei o elettronici con finalità di raccolta dati tranne nei casi in cui l'azienda richiedente stia operando su mandato particolare dello Stato (es. censimenti ISTAT, richieste del Prefetto, etc.).  
+Per garantire un ulteriore livello di sicurezza sull'impianto informatico e sugli apparati elettronici in funzione all'interno del Comune è opportuno che non venga divulgata pubblicamente, senza previa autorizzazione del C.E.D., alcuna informazione di tipo tecnico o finanziario da cui potrebbe essere eseguita un'attività di [Cracking](https://it.wikipedia.org/wiki/Cracking_(informatica)) o [Social Engineering](https://it.wikipedia.org/wiki/Ingegneria_sociale) al fine di compiere [Cyber Attacchi](https://it.wikipedia.org/wiki/Attacco_informatico).  
+Esempi di informazioni da non divulgare sono: il numero di PC installati, i nomi delle aziende che provvedono alla manutenzione, la data di acquisto delle apparecchiature, l'ammontare annuo delle spese di manutenzione, l'ammontare annuo degli investimenti, etc.  
+Tali dati inoltre, qualora contengano nomi di società o indirizzi di posta elettronica o altri dati riservati, devono rimanere particolarmente tutelati per non incorrere involontariamente al fenomeno dello [Spam](https://it.wikipedia.org/wiki/Spam) o peggio alla violazione degli articoli 23 e 25 del [Dlgs. 196/2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig).  
+Per questi motivi sono inoltre **vietate le interviste telefoniche** e la **compilazione di questionari** cartacei o elettronici con finalità di raccolta dati tranne nei casi in cui l'azienda richiedente stia operando su mandato particolare dello Stato (es. censimenti ISTAT, richieste del Prefetto, etc.).  
+[:bookmark_tabs: Torna all'indice](#indice)  
+
 ### 5 Utilizzo dei dispositivi informatici <a name="5"></a>
 I dispositivi informatici (Personal Computer, Palmari, etc.) affidati ai dipendenti sono degli strumenti di lavoro.  
 Ogni utilizzo non inerente all’attività lavorativa può contribuire ad innescare disservizi, costi di manutenzione e, soprattutto, minacce alla sicurezza.
@@ -382,53 +363,15 @@ programma Thunderbird per gestire la posta elettronica; pertanto, modificando
 la password iniziale di accesso alla rete, viene automaticamente modificata
 anche la password per la lettura della posta elettronica.
 ### 9 L'Inventario dei Dispositivi Informatici <a name="9"></a>
-Viene definito “Inventario dei Dispositivi Informatici” la lista di tutti i
-dispositivi informatici (computer, stampanti, monitor, etc.) che rientrano nel
-“Parco Macchine” del Comune di Piove di Sacco. Il C.E.D., il Titolare del
-trattamento dei dati e l'Amministratore del Sistema hanno competenza e
-rispondono solamente delle apparecchiature presenti nell'Inventario dei
-Dispositivi Informatici. Il numero di dispositivi presenti è limitato in quanto
-dipende dalle risorse tecniche disponibili.
-Una lista completa ed aggiornata in tempo reale delle postazioni
-registrate nell' Inventario dei Dispositivi Informatici si trova consultando il sito
-intranet:
-“https://linux.comune.piove.pd.it/dps/index.php4”.
+Viene definito “Inventario dei Dispositivi Informatici” la lista di tutti i dispositivi informatici (computer, stampanti, monitor, etc.) che rientrano nel “Parco Macchine” del Comune di Piove di Sacco. Il C.E.D., il Titolare del trattamento dei dati e l'Amministratore del Sistema hanno competenza e rispondono solamente delle apparecchiature presenti nell'Inventario dei Dispositivi Informatici. Il numero di dispositivi presenti è limitato in quanto dipende dalle risorse tecniche disponibili.  
+Il database dell'Inventario Informatico è gestito con un software specifico accessibile solamente agli amministratori di sistema e al personale registrato. E' possibile ottenere informazioni riguardo l'appartenenza o meno all'Inventario Informatico di un determinato dispositivo inoltrando una richiesta mail al servizio di supporto raggiungibile da questo [link]().  
 ### 10 Utilizzo di computer non appartenenti all'Inventario dei Dispositivi Informatici <a name="10"></a>
-L'utilizzo di apparecchiature non fornite dal C.E.D., o comunque non
-presenti all'interno dell'Inventario dei Dispositivi Informatici, è ovviamente
-consentito, in questo caso non si applicano le regole descritte nel presente
-documento; tuttavia si devono sempre applicare le regole dettate dal buon
-senso che sempre si dovrebbero utilizzare per non creare situazioni di pericolo
-o di danno alle altre apparecchiature: una di queste regole è, ad esempio,
-chiedere preventivamente all'Amministratore di Sistema se quello che si
-intende fare può provocare problemi al sistema.
-Resta comunque valido il divieto di collegare queste apparecchiature alla
-rete comunale o ad altro dispositivo informatico presente nel Comune di Piove
-di Sacco.
-L'utente che intende utilizzare tali apparecchiature si assume tutte le
-responsabilità e se ne accolla gli oneri derivati dalla manutenzione e dalla
-gestione, come meglio descritto nel capitolo 12 .
-Qualora un Ufficio o Servizio Comunale attivi un sistema informatico
-dedicato su cui vengono trattati dati riservati o sensibili e tale sistema non può
-essere inserito all'interno dell'Inventario Informatico Comunale, dovrà
-provvedere autonomamente a rispettare e garantire tutte le norme di sicurezza
-e le misure minime previste dal Dlgs 196/2003, nonché produrre annualmente
-entro il 31 marzo il documento D.P.S. Relativo a quel sistema.
+L'utilizzo di apparecchiature non fornite dal C.E.D., o comunque non presenti all'interno dell'Inventario dei Dispositivi Informatici, è ovviamente consentito, in questo caso non si applicano le regole descritte nel presente documento; tuttavia si devono sempre applicare le attenzioni e le azioni dettate dal buon senso per non creare situazioni di pericolo o di danno alle altre apparecchiature o al sistema in generale: una di queste attenzioni è, ad esempio, chiedere preventivamente all'Amministratore di Sistema se quello che si intende fare può provocare problemi al sistema.  
+Resta comunque valido il divieto di collegare queste apparecchiature alla rete comunale o rimpiazzare un dispositivo informatico registrato con uno non registrato nell'Inventario Informatico. L'utente che utilizza tali apparecchiature si assume tutte le responsabilità e se ne accolla gli oneri derivati dalla manutenzione, dalla gestione e dalla messa in sicurezza come meglio descritto nel capitolo 12. Qualora un Ufficio o Servizio Comunale attivi in autonomia un sistema informatico dedicato su cui vengono trattati dati riservati o sensibili dovrà provvedere autonomamente a garantire ed onorare le [disposizioni consigliate dall'AGiD](https://www.agid.gov.it/it/linee-guida) incluse le regole e disposizioni citate nel [Codice Privacy](https://www.garanteprivacy.it/codice), le misure previste dal [Piano Triennale vigente](https://www.agid.gov.it/it/agenzia/piano-triennale) e le [Misure Minime di sicurezza](https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict) obbligatorie.  
 ### 11 Utilizzo di computer portatili <a name="11"></a>
-L’utente è responsabile del computer portatile assegnatogli
-dall’Amministratore di Sistema e deve custodirlo con diligenza sia durante gli
-spostamenti sia durante l’utilizzo nel luogo di lavoro.
-Ai computer portatili si applicano le regole di utilizzo previste per i
-computer connessi in rete, con particolare attenzione alla rimozione di
-eventuali file elaborati sullo stesso prima della riconsegna.
-I computer portatili utilizzati all’esterno (convegni, visite in azienda, ecc.),
-in caso di allontanamento, devono essere custoditi in un luogo protetto.
-Non lasciare mai i propri dati, magari importanti, all'interno dei computer
-portatili in quanto, oltre agli evidenti problemi legati alla privacy, è possibile
-che, a causa di un uso improprio da parte di qualche utente maldestro, sia
-necessario reinstallare l'intero sistema operativo portando il computer alla
-situazione iniziale di fabbrica; è chiaro che in questa situazione tutti i dati
-utente in esso contenuti verrebbero perduti irrimediabilmente.
+L’utente è responsabile del computer portatile assegnatogli dall’Amministratore di Sistema e deve custodirlo con diligenza sia durante gli spostamenti sia durante l’utilizzo nel luogo di lavoro. Ai computer portatili si applicano le regole di utilizzo previste per i computer fissi connessi in rete, con particolare attenzione alla rimozione di eventuali file elaborati sullo stesso prima della riconsegna.  
+I computer portatili che vengono utilizzati in ambienti non protetti (ad esempio durante convegni, visite nelle aziende, ecc.), in caso di allontanamento, devono essere custoditi in luoghi sicuri, inoltre è fondamentale che il portatile sia protetto con password forte e che il disco fisso sia criptato per evitare esfiltrazione di dati.  
+Tenete presente che il computer portatile è un oggetto delicato che può facilmente danneggiarsi o essere smarrito o rubato, per questo motivo è necessario non mantenere dati sensibili o importanti nella sua memoria interna, preferite sempre lavorare su piattaforme cloud o eseguire dei backup su supporti esterni criptati (vedi capitolo [5.1](#5.1)).  
 ### 12 Manutenzioni, riparazioni e aggiornamenti <a name="12"></a>
 Le operazioni di aggiornamento e di manutenzione hardware/software
 vengono svolte dai tecnici del C.E.D., o da incaricati esterni autorizzati,
