@@ -7,7 +7,7 @@
 [3 Elenco dei Fornitori delle procedure software](#3)  
 [4 Informazioni riservate](#4)  
 [5 Utilizzo dei dispositivi informatici](#5)  
->[5.1 Utilizzo delle pen-drive USB](#5.1)  
+>[5.1 Utilizzo delle pen-drive e memorie di massa USB](#5.1)  
 >[5.2 Utilizzo dei supporti magnetici](#5.2)  
 >[5.3 Utilizzo di CD e DVD](#5.3)  
 
@@ -54,62 +54,35 @@ Per questi motivi sono inoltre **vietate le interviste telefoniche** e la **comp
 
 ### 5 Utilizzo dei dispositivi informatici <a name="5"></a>
 I dispositivi informatici (Personal Computer, Palmari, etc.) affidati ai dipendenti sono degli strumenti di lavoro. Ogni utilizzo non inerente all’attività lavorativa può contribuire ad innescare disservizi, costi di manutenzione e, soprattutto, minacce alla sicurezza.
-L’accesso all’elaboratore è protetto da password la quale deve essere custodita dall’utente con la massima diligenza e non divulgata. L'utente può modificare la password a suo piacimento cercando di rispettare sempre le regole di complessità previste dalle [Misure Minime di sicurezza](https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict) vigenti.  
->[💡 Suggerimento]
->E' anche disponibile un video tutorial che spiega come fare alla pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo [![Static Badge](https://img.shields.io/badge/Link-Cambio_Password-%23f1cbff?style=plastic&logo=youtube)](https://youtu.be/i6P9Zb6vdKs).
-
-Una diversa password potrà essere richiesta per il collegamento a Internet o per gli applicativi in Cloud, questo non facilita l'utente nel ricordarsi tutte le credenziali necessarie, per questo motivo è **estremamente consigliato** utilizzare un programma di gestione delle password per evitare di dimenticarle o renderle facilmente accessibili ad occhi indiscreti a causa di un sistema di archiviazione non conforme. Il Comune di Piove di Sacco mette a disposizione un programma di gestione delle password Free ed Open Source chiamato `Passman` inserito nella suite di [Nextcloud](#6.3), per vedere il tutorial sul suo funzionamento andare alla pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo [![Static Badge](https://img.shields.io/badge/Link-Passman-blue?style=plastic&logo=youtube)](https://youtu.be/DrLxrg2Her8).    
-Si ricorda che ogni singola postazione non deve essere lasciata incustodita in modo da evitare l'accesso a persone non autorizzate. La postazione potrà essere protetta mediante blocco con password effettuando l’operazione di logout o logout rapido (tasto :window: e “L”), è disponibile un tutorial che mostra come fare nella pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo [![Static Badge](https://img.shields.io/badge/Link-Logout_veloce-%23f7e7b4?style=plastic&logo=youtube)](https://youtu.be/G51YksU6alc).    
-Non è consentito modificare le impostazioni del BIOS o del software di configurazione hardware del sistema.  
-Non è consentita nessuna operazione di forzatura fisica dei dispositivi.  
+L’accesso all’elaboratore è protetto da password la quale deve essere custodita dall’utente con la massima diligenza e non divulgata. L'utente può modificare la password a suo piacimento cercando di rispettare sempre le regole di complessità previste dalle [Misure Minime di sicurezza](https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict) vigenti. Vedere a tal proposito anche il [capitolo 8](#8) sulla gestione delle password.  
+Non è consentito modificare le impostazioni del BIOS o del software di configurazione hardware del sistema. Non è consentita nessuna operazione di forzatura fisica dei dispositivi.  
 L’Amministratore di Sistema potrà accedere ai dati e agli strumenti informatici esclusivamente per permettere alla stessa azienda, titolare del trattamento, di accedere a dati trattati da ogni incaricato con le modalità fissate dalla stessa azienda, al solo fine di garantire l’operatività, la sicurezza del sistema ed il normale svolgimento dell’attività aziendale nei casi in cui si renda indispensabile ed indifferibile l’intervento, ad esempio in caso di prolungata assenza od impedimento dell’incaricato, informando tempestivamente l’incaricato dell’intervento di accesso realizzato.  
-Non è consentito installare e/o eseguire programmi provenienti dall’esterno salvo previa autorizzazione (in forma scritta tramite e-mail) dell’Amministratore di Sistema, in quanto sussiste il grave pericolo di portare virus informatici e di alterare la stabilità delle applicazioni ell’elaboratore.  
-Non è consentito l’uso di programmi diversi da quelli distribuiti ed installati ufficialmente dall'Amministratore di Sistema del Comune di Piove di Sacco.  
-L’inosservanza di questa disposizione, infatti, oltre al rischio di danneggiamenti del sistema per incompatibilità con il software esistente, può esporre l’azienda a gravi responsabilità civili ed anche penali in caso di violazione della normativa a tutela dei diritti d’autore sul software (D. Lgs. 518/92 sulla tutela giuridica del software e L. 248/2000 nuove norme di tutela del diritto d’autore) che impone la presenza nel sistema di software regolarmente licenziato o comunque libero.  
+Non è consentito installare e/o eseguire programmi provenienti dall’esterno salvo previa autorizzazione (in forma scritta tramite e-mail) dell’Amministratore di Sistema, in quanto sussiste il grave pericolo di portare virus informatici e di alterare la stabilità delle applicazioni ell’elaboratore. Non è consentito l’uso di programmi diversi da quelli distribuiti ed installati ufficialmente dall'Amministratore di Sistema del Comune di Piove di Sacco così come disposto dalle [Misure Minime di sicurezza](https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict) vigenti. L’inosservanza di questa disposizione, infatti, oltre al rischio di danneggiamenti del sistema per incompatibilità con il software esistente, può esporre l’azienda a gravi responsabilità civili ed anche penali in caso di violazione della normativa a tutela dei diritti d’autore sul software (D. Lgs. 518/92 sulla tutela giuridica del software e L. 248/2000 nuove norme di tutela del diritto d’autore) che impone la presenza nel sistema di software regolarmente licenziato o comunque libero.  
 Non è consentito all’utente modificare le caratteristiche impostate sul proprio dispositivo informatico ad esclusione di quelle identificate come personalizzazioni, salvo previa autorizzazione (in forma scritta tramite e-mail) dell’Amministratore di Sistema.
-Gli elaboratori devono essere spenti ogni sera prima di lasciare gli uffici o in caso di assenze prolungate dall’ufficio, salvo diversa disposizione da parte dell’Amministratore di Sistema.  
-In ogni caso lasciare un elaboratore incustodito connesso alla rete può essere causa di utilizzo da parte di terzi senza che vi sia la possibilità di provarne in seguito l’indebito uso.  
-Non è consentita l’installazione sull'elaboratore in dotazione di nessun dispositivo di memorizzazione, comunicazione o altro (come ad esempio masterizzatori, modem, dispositivi di memorizzazione USB, dispositivi wireless), se non con l’autorizzazione (in forma scritta tramite e-mail) dell’Amministratore di Sistema.  
+Gli elaboratori **devono essere spenti ogni sera** prima di lasciare gli uffici e in caso di assenze prolungate dall’ufficio, salvo diversa disposizione da parte dell’Amministratore di Sistema. Ricordate che lasciare un elaboratore acceso e incustodito connesso alla rete può essere causa di utilizzo da parte di terzi senza che vi sia la possibilità di provarne in seguito l’indebito uso.  
+Non è consentita l’installazione o la connessione nel elaboratore in dotazione di alcun dispositivo di memorizzazione, comunicazione o altro (come ad esempio masterizzatori, modem, chiavette USB, dispositivi wireless, etc.), se non con l’autorizzazione (in forma scritta tramite e-mail) dell’Amministratore di Sistema.  
 Ogni utente deve prestare la massima attenzione ai supporti di origine esterna, avvertendo immediatamente l’Amministratore di Sistema nel caso in cui vengano rilevati virus.  
-#### 5.1 Utilizzo delle pen-drive USB <a name="5.1"></a>
-Si ricorda che l'uso di pen-drive USB è fortemente deprecato in quanto
-fonte sicura di virus informatici; il mezzo consigliato per il trasferimento dei dati
-è la posta elettronica che automaticamente controlla i documenti allegati
-segnalando eventuali file dannosi.
-Altro sistema consentito per realizzare uno scambio di dati massivo tra
-Amministrazione Comunale e il mondo esterno è il servizio BoxRoom (vedi
-punto 6.3) che consente di mettere in linea file di grandi dimensioni evitando lo
-speco di supporti magnetici ed ottici i quali contribuiscono ad inquinare
-l'ambiente essendo rifiuto non riciclabile.
-Qualora si dovesse comunque procedere all'uso delle pen-drive USB, è
-necessario contattare l'Amministratore di Sistema per eseguire un controllo
-preventivo sui dati in esse contenuti.
-#### 5.2 Utilizzo dei supporti magnetici <a name="5.2"></a>
-Quando presenti, tutti i supporti magnetici riutilizzabili (dischetti, cassette,
-cartucce, dispositivi di memorizzazione USB, etc.) contenenti dati sensibili e
-giudiziari devono essere trattati con particolare cautela onde evitare che il loro
-contenuto possa essere recuperato (punto 22 del disciplinare tecnico, D. Lgs.
-196 del 30/06/2003). Una persona esperta potrebbe infatti recuperare i dati
-memorizzati anche dopo la loro cancellazione.
-I supporti magnetici contenenti dati sensibili e giudiziari (punto 21 del
-disciplinare tecnico, D. Lgs. 196 del 30/06/2003) devono essere custoditi in
-archivi chiusi a chiave.
-#### 5.3 Utilizzo di CD e DVD <a name="5.3"></a>
-I supporti come i CD o i DVD con contenuto non autoinstallante possono
-essere utilizzati liberamente.
-Diversamente, quando un CD o un DVD tenta di installare del software
-sulla macchina l'operazione deve essere interrotta immediatamente, in questo
-caso contattare l'Amministratore di Sistema per eventuali ragguagli.
-Anche se generalmente non è rischioso utilizzare il lettore ottico del PC
-in dotazione per riprodurre CD o DVD musicali o comunque multimediali, si
-ricorda che e' illegale detenere file musicali e/o video protetti dai diritti d'autore,
-in formato compresso o non compresso (mp3,wav,wma,avi,mpeg, ecc.)
-ottenuti con metodi ritenuti illegali dalle norme sul diritto d'autore (leggi
-248/2000 e 128/04). Si invitano pertanto gli utenti che avessero memorizzato
-tali file nei PC del Comune di Piove di Sacco o che detenessero copie
-masterizzate non autorizzate di CD o DVD, di procedere alla cancellazione
-definitiva dei file e alla rimozione dei supporti contraffatti al fine di non
-incorrere nelle sanzioni previste dalla normativa vigente.
+
+#### 5.1 Utilizzo delle pen-drive e memorie di massa USB <a name="5.1"></a>
+Si ricorda che con il termine memorie di massa ci si riferisce a qualunque oggetto composto da parti meccaniche in movimento oppure da circuiti integrati allo stato solido in grado di contenere dati informatici. Le memorie di massa si interfacciano al sistema centrale mediante la porta USB e dopo l'inserimento sono immediatamente disponibili.  
+Le pen-drive sono solitamente oggetti piccoli come una chiave e questa caratteristica le rende un supporto di memorizzazione molto versatile soprattutto per trasferire grosse quantità di dati tra un computer all'altro senza la necessità di installare software per il loro funzionamento.
+Ed è proprio questa caratteristica di facilità d'uso e di promiscuità nei collegamenti che rende le memorie di massa USB una fonte pericolosa di minacce informatiche come [virus](https://it.wikipedia.org/wiki/Virus_(informatica)), [troyan](https://it.wikipedia.org/wiki/Trojan_(informatica)) e [ransomware](https://it.wikipedia.org/wiki/Ransomware) tale per cui l'utilizzo di questi dispositivi è **fortemente sconsigliato**.  
+I mezzi consigliati ed autorizzati per il trasferimento dei dati tra un PC ed un altro sono i seguenti:
+- **la posta elettronica**, che automaticamente controlla i documenti allegati segnalando eventuali file dannosi.
+- **la PEC** (Posta elettronica Certificata), che aggiunge un livello di certificazione di invio e consegna non ripudiabili
+- **Il servizio BoxRoom** (vedi [capitolo 6.3](#6.3)) che, tra le altre cose, consente di trasferire file di grandi dimensioni evitando lo speco di supporti magnetici ed ottici i quali, tra le altre cose, contribuiscono ad inquinare l'ambiente essendo rifiuto non riciclabile.
+
+Qualora si dovesse comunque procedere con l'uso delle memorie di massa USB ad esempio per conservare grandi quantità di file storici, è necessario contattare l'Amministratore di Sistema per farsi consegnare un dispositivo opportunamente formattato e criptato così da limitare il più possibile pericoli di esfiltrazione dati derivati da furto, smarrimento o uso non autorizzato della memoria stessa.
+> ⚠️ _Attenzione!_<br>
+> _Non è ammesso l'uso di memorie di massa USB che non siano state preventivamente preparate e controllate dal C.E.D., ogni dispositivo estraneo deve essere rimosso e consegnato al C.E.D. per essere riformattato e criptato._
+
+Si ricorda che anche un telefonino collegato alla porta USB del computer per la ricarica può considerarsi una memoria di massa e quindi rappresentare una minaccia, pertanto il collegamento al PC del telefonino **non viene autorizzato**.
+
+ #### 5.2 Precauzioni durante l'uso delle memorie di massa <a name="5.2"></a>
+Tutti i supporti di memorie di massa (dischetti, cassette, cartucce, CD, DVD, dispositivi di memorizzazione USB, etc.) contenenti dati sensibili e giudiziari devono essere trattati con particolare cautela onde evitare che il loro contenuto possa essere recuperato (punto 22 del disciplinare tecnico, D. Lgs. 196 del 30/06/2003). Una persona esperta potrebbe infatti recuperare i dati memorizzati anche dopo la loro cancellazione. Qualunque supporto contenente dati sensibili e giudiziari (punto 21 del disciplinare tecnico, D. Lgs. 196 del 30/06/2003) **deve essere criptato** e custodito in archivi chiusi a chiave.  
+Se il supporto contiene dati autoinstallanti deve essere prima controllato dall'amministratore di sistema, al fine di stabilire se i dati che verranno installati possono rappresentare una minaccia al sistema. Anche se generalmente non è rischioso utilizzare il lettore ottico del PC in dotazione per riprodurre CD o DVD musicali o comunque multimediali, si ricorda che e' illegale detenere file musicali e/o video protetti dai diritti d'autore, in formato compresso o non compresso (mp3,wav,wma,avi,mpeg, ecc.)
+ottenuti con metodi ritenuti illegali dalle norme sul diritto d'autore (leggi 248/2000 e 128/04). Si invitano pertanto gli utenti che avessero memorizzato tali file nei PC del Comune di Piove di Sacco o che detenessero copie masterizzate non autorizzate di CD o DVD, di procedere alla cancellazione definitiva dei file e alla rimozione dei supporti contraffatti al fine di non incorrere nelle sanzioni previste dalla normativa vigente.
+
 ### 6 Utilizzo della rete <a name="6"></a>
 La “rete” è l'insieme di servizi e apparecchiature tra di loro collegate
 attraverso cavi speciali che consentono agli utenti di utilizzare le risorse
@@ -354,6 +327,21 @@ essere immediatamente sostituita, dandone comunicazione all’Amministratore
 di Sistema.
 Qualora l’utente venisse a conoscenza delle password di altro utente, è
 tenuto a darne immediata notizia all’Amministratore di Sistema.
+
+
+> 💡 _Suggerimento_<br>
+> _E' anche disponibile un video tutorial che spiega come fare alla pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo_ [![Static Badge](https://img.shields.io/badge/Link-Cambio_Password-%23f1cbff?style=plastic&logo=youtube)](https://youtu.be/i6P9Zb6vdKs).
+
+Una diversa password potrà essere richiesta per il collegamento a Internet o per gli applicativi in Cloud, questo non facilita l'utente nel ricordarsi tutte le credenziali necessarie, per questo motivo è **estremamente consigliato** utilizzare un programma di gestione delle password per evitare di dimenticarle o renderle facilmente accessibili ad occhi indiscreti a causa di un sistema di archiviazione non conforme. Il Comune di Piove di Sacco mette a disposizione un programma di gestione delle password Free ed Open Source chiamato `Passman` inserito nella suite di [Nextcloud](#6.3).  
+> 💡 _Suggerimento_<br>
+> _Per vedere il tutorial sul funzionamento di Passman andare alla pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo_ [![Static Badge](https://img.shields.io/badge/Link-Passman-blue?style=plastic&logo=youtube)](https://youtu.be/DrLxrg2Her8).
+
+Si ricorda che ogni singola postazione non deve essere lasciata incustodita in modo da evitare l'accesso a persone non autorizzate. La postazione potrà essere protetta mediante blocco con password effettuando l’operazione di logout o logout rapido (tasto :window: e “L”).  
+> 💡 _Suggerimento_<br>
+> _E' disponibile un tutorial che mostra come eseguire il Logout Veloce nella pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo_ [![Static Badge](https://img.shields.io/badge/Link-Logout_veloce-%23f7e7b4?style=plastic&logo=youtube)](https://youtu.be/G51YksU6alc).   
+
+
+
 #### 8.1 Password per la posta elettronica <a name="8.1"></a>
 Si fa presente che i PC client della rete comunale sono collegati ad un
 dominio di autenticazione che utilizza la tecnologia “Single Sign On”; questo
