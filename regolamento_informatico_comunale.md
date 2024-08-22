@@ -1,5 +1,5 @@
 # Regolamento aziendale per l’utilizzo del Sistema Informatico  
-## Comune di Piove di Sacco ![Static Badge](https://img.shields.io/badge/Anno-2024-blue?style=plastic)
+## Comune di Piove di Sacco ![Static Badge](https://img.shields.io/badge/Anno-2024-%23eeba30?style=plastic)
 
 ### Indice generale <a name="indice"></a>
 [1 Premessa](#1)  
@@ -53,12 +53,13 @@ Per questi motivi sono inoltre **vietate le interviste telefoniche** e la **comp
 [:bookmark_tabs: Torna all'indice](#indice)  
 
 ### 5 Utilizzo dei dispositivi informatici <a name="5"></a>
-I dispositivi informatici (Personal Computer, Palmari, etc.) affidati ai dipendenti sono degli strumenti di lavoro.  
-Ogni utilizzo non inerente all’attività lavorativa può contribuire ad innescare disservizi, costi di manutenzione e, soprattutto, minacce alla sicurezza.
-L’accesso all’elaboratore è protetto da password che deve essere custodita dall’utente con la massima diligenza e non divulgata.  
-La stessa password potrà essere richiesta per l’accesso alla rete, per il collegamento a Internet o per gli applicativi.  
-Si ricorda che ogni singola postazione non deve essere lasciata incustodita in modo da permettere accesso a persone non autorizzate.
-La postazione potrà essere protetta mediante utilizzo di screen-saver con password o effettuando l’operazione di logout o logout rapido (tasto “” e “L”).  
+I dispositivi informatici (Personal Computer, Palmari, etc.) affidati ai dipendenti sono degli strumenti di lavoro. Ogni utilizzo non inerente all’attività lavorativa può contribuire ad innescare disservizi, costi di manutenzione e, soprattutto, minacce alla sicurezza.
+L’accesso all’elaboratore è protetto da password la quale deve essere custodita dall’utente con la massima diligenza e non divulgata. L'utente può modificare la password a suo piacimento cercando di rispettare sempre le regole di complessità previste dalle [Misure Minime di sicurezza](https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict) vigenti.  
+>[💡 Suggerimento]
+>E' anche disponibile un video tutorial che spiega come fare alla pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo [![Static Badge](https://img.shields.io/badge/Link-Cambio_Password-%23f1cbff?style=plastic&logo=youtube)](https://youtu.be/i6P9Zb6vdKs).
+
+Una diversa password potrà essere richiesta per il collegamento a Internet o per gli applicativi in Cloud, questo non facilita l'utente nel ricordarsi tutte le credenziali necessarie, per questo motivo è **estremamente consigliato** utilizzare un programma di gestione delle password per evitare di dimenticarle o renderle facilmente accessibili ad occhi indiscreti a causa di un sistema di archiviazione non conforme. Il Comune di Piove di Sacco mette a disposizione un programma di gestione delle password Free ed Open Source chiamato `Passman` inserito nella suite di [Nextcloud](#6.3), per vedere il tutorial sul suo funzionamento andare alla pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo [![Static Badge](https://img.shields.io/badge/Link-Passman-blue?style=plastic&logo=youtube)](https://youtu.be/DrLxrg2Her8).    
+Si ricorda che ogni singola postazione non deve essere lasciata incustodita in modo da evitare l'accesso a persone non autorizzate. La postazione potrà essere protetta mediante blocco con password effettuando l’operazione di logout o logout rapido (tasto :window: e “L”), è disponibile un tutorial che mostra come fare nella pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo [![Static Badge](https://img.shields.io/badge/Link-Logout_veloce-%23f7e7b4?style=plastic&logo=youtube)](https://youtu.be/G51YksU6alc).    
 Non è consentito modificare le impostazioni del BIOS o del software di configurazione hardware del sistema.  
 Non è consentita nessuna operazione di forzatura fisica dei dispositivi.  
 L’Amministratore di Sistema potrà accedere ai dati e agli strumenti informatici esclusivamente per permettere alla stessa azienda, titolare del trattamento, di accedere a dati trattati da ogni incaricato con le modalità fissate dalla stessa azienda, al solo fine di garantire l’operatività, la sicurezza del sistema ed il normale svolgimento dell’attività aziendale nei casi in cui si renda indispensabile ed indifferibile l’intervento, ad esempio in caso di prolungata assenza od impedimento dell’incaricato, informando tempestivamente l’incaricato dell’intervento di accesso realizzato.  
