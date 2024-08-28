@@ -2,14 +2,14 @@
 ## Comune di Piove di Sacco ![Static Badge](https://img.shields.io/badge/Anno-2024-%23eeba30?style=plastic)
 
 ### Indice generale <a name="indice"></a>
-[1 Premessa](#1)  
-[2 Nomi dei PC](#2)  
-[3 Elenco dei Fornitori delle procedure software](#3)  
-[4 Informazioni riservate](#4)  
-[5 Utilizzo dei dispositivi informatici](#5)  
->[5.1 Utilizzo delle pen-drive e memorie di massa USB](#5.1)  
->[5.2 Utilizzo dei supporti magnetici](#5.2)  
->[5.3 Utilizzo di CD e DVD](#5.3)  
+[1 Premessa](#1) 🆗  
+[2 Nomi dei PC](#2) 🆗  
+[3 Repository Youtube per la Formazione Informatica dei dipendenti](#3) 👷‍♂️  
+[4 Informazioni riservate](#4) 🆗  
+[5 Utilizzo dei dispositivi informatici](#5) 🆗  
+>[5.1 Utilizzo delle pen-drive e memorie di massa USB](#5.1) 🆗  
+>[5.2 Precauzioni durante l'uso delle memorie di massa](#5.2) 🆗  
+>[5.3 Utilizzo delle Stampanti Dipartimentali](#5.3) 👷‍♂️  
 
 [6 Utilizzo della rete](#6)
 >[6.1 Uso della posta elettronica](#6.1)  
@@ -65,59 +65,50 @@ Ogni utente deve prestare la massima attenzione ai supporti di origine esterna, 
 [:bookmark_tabs: Torna all'indice](#indice)  
 
 #### 5.1 Utilizzo delle pen-drive e memorie di massa USB <a name="5.1"></a>
-Si ricorda che con il termine memorie di massa ci si riferisce a qualunque oggetto composto da parti meccaniche in movimento oppure da circuiti integrati allo stato solido in grado di contenere dati informatici. Le memorie di massa si interfacciano al sistema centrale mediante la porta USB e dopo l'inserimento sono immediatamente disponibili.  
+Si ricorda che con il termine memorie di massa ci si riferisce a qualunque oggetto composto da parti meccaniche in movimento oppure da circuiti integrati allo stato solido in grado di contenere dati informatici. Le memorie di massa USB si interfacciano al sistema centrale mediante la porta USB e dopo l'inserimento sono immediatamente disponibili.  
 Le pen-drive sono solitamente oggetti piccoli come una chiave e questa caratteristica le rende un supporto di memorizzazione molto versatile soprattutto per trasferire grosse quantità di dati tra un computer all'altro senza la necessità di installare software per il loro funzionamento.
 Ed è proprio questa caratteristica di facilità d'uso e di promiscuità nei collegamenti che rende le memorie di massa USB una fonte pericolosa di minacce informatiche come [virus](https://it.wikipedia.org/wiki/Virus_(informatica)), [troyan](https://it.wikipedia.org/wiki/Trojan_(informatica)) e [ransomware](https://it.wikipedia.org/wiki/Ransomware) tale per cui l'utilizzo di questi dispositivi è **fortemente sconsigliato**.  
-I mezzi consigliati ed autorizzati per il trasferimento dei dati tra un PC ed un altro sono i seguenti:
-- **la posta elettronica**, che automaticamente controlla i documenti allegati segnalando eventuali file dannosi.
-- **la PEC** (Posta elettronica Certificata), che aggiunge un livello di certificazione di invio e consegna non ripudiabili
-- **Il servizio BoxRoom** (vedi [capitolo 6.3](#6.3)) che, tra le altre cose, consente di trasferire file di grandi dimensioni evitando lo speco di supporti magnetici ed ottici i quali, tra le altre cose, contribuiscono ad inquinare l'ambiente essendo rifiuto non riciclabile.
+Se l'esigenza per cui si pensa di aver bisogno di una memoria di massa USB è quella di dover trasferire dati tra un PC ed un altro, sono presenti e a disposizione le seguenti tecnologie alternative:
+- **la posta elettronica** (vedi [capitolo 6.1](#6.1)), che automaticamente controlla i documenti allegati segnalando eventuali file dannosi.
+- **la PEC Posta elettronica Certificata** (vedi [capitolo 6.2](#6.2)), che aggiunge il livello di certificazione non ripudiabile per l'invio e la consegna.
+- **Il servizio BoxRoom** (vedi [capitolo 6.3](#6.3)) che, tra le altre cose, consente di trasferire file di grandi dimensioni evitando lo speco di supporti magnetici ed ottici destinati poi allo smaltimento come rifiuto non riciclabile.
 
 Qualora si dovesse comunque procedere con l'uso delle memorie di massa USB ad esempio per conservare grandi quantità di file storici, è necessario contattare l'Amministratore di Sistema per farsi consegnare un dispositivo opportunamente formattato e criptato così da limitare il più possibile pericoli di esfiltrazione dati derivati da furto, smarrimento o uso non autorizzato della memoria stessa.
 > ⚠️ _Attenzione!_<br>
-> _Non è ammesso l'uso di memorie di massa USB che non siano state preventivamente preparate e controllate dal C.E.D., ogni dispositivo estraneo deve essere rimosso e consegnato al C.E.D. per essere riformattato e criptato._
+> _Non è ammesso l'uso di memorie di massa USB che non siano state preventivamente preparate e controllate dall'Amministratore di Sistema, ogni dispositivo estraneo deve essere rimosso e consegnato al C.E.D. per essere riformattato e criptato._
 
-Si ricorda che anche un telefonino collegato alla porta USB del computer per la ricarica può considerarsi una memoria di massa e quindi rappresentare una minaccia, pertanto il collegamento al PC del telefonino **non viene autorizzato**.  
+Si ricorda che anche un semplice telefono cellulare o smartphone collegato alla porta USB del computer per la ricarica viene riconosciuto dal sistema come un dispositivo di archiviazione di massa USB. Di conseguenza, rappresenta un potenziale rischio per la sicurezza. Per questo motivo, **non è consentito collegare il telefono al PC**.  
 [:bookmark_tabs: Torna all'indice](#indice)  
 
- #### 5.2 Precauzioni durante l'uso delle memorie di massa <a name="5.2"></a>
-Tutti i supporti di memorie di massa (dischetti, cassette, cartucce, CD, DVD, dispositivi di memorizzazione USB, etc.) contenenti dati sensibili e giudiziari devono essere trattati con particolare cautela onde evitare che il loro contenuto possa essere recuperato (punto 22 del disciplinare tecnico, D. Lgs. 196 del 30/06/2003). Una persona esperta potrebbe infatti recuperare i dati memorizzati anche dopo la loro cancellazione. Qualunque supporto contenente dati sensibili e giudiziari (punto 21 del disciplinare tecnico, D. Lgs. 196 del 30/06/2003) **deve essere criptato** e custodito in archivi chiusi a chiave.  
-Se il supporto contiene dati autoinstallanti deve essere prima controllato dall'amministratore di sistema, al fine di stabilire se i dati che verranno installati possono rappresentare una minaccia al sistema. Anche se generalmente non è rischioso utilizzare il lettore ottico del PC in dotazione per riprodurre CD o DVD musicali o comunque multimediali, si ricorda che e' illegale detenere file musicali e/o video protetti dai diritti d'autore, in formato compresso o non compresso (mp3,wav,wma,avi,mpeg, ecc.)
-ottenuti con metodi ritenuti illegali dalle norme sul diritto d'autore (leggi 248/2000 e 128/04). Si invitano pertanto gli utenti che avessero memorizzato tali file nei PC del Comune di Piove di Sacco o che detenessero copie masterizzate non autorizzate di CD o DVD, di procedere alla cancellazione definitiva dei file e alla rimozione dei supporti contraffatti al fine di non incorrere nelle sanzioni previste dalla normativa vigente.
+#### 5.2 Precauzioni durante l'uso delle memorie di massa <a name="5.2"></a>
+E' stato detto che ogni memoria di massa USB, prima di essere utilizzata dall'utente finale, deve essere preparata e criptata preventivamente dall'Amministratore di Sistema.
+Quando i supporti di memorie di massa (dischetti, cassette, cartucce, CD, DVD, dispositivi di memorizzazione USB, etc.) contengono dati sensibili e giudiziari devono essere adottate misure particolare onde evitare che il loro contenuto possa essere recuperato (punto 22 del disciplinare tecnico, D. Lgs. 196 del 30/06/2003). Una persona esperta potrebbe infatti recuperare i dati memorizzati anche dopo la loro cancellazione. Qualunque supporto contenente dati sensibili e giudiziari (punto 21 del disciplinare tecnico, D. Lgs. 196 del 30/06/2003) **deve essere criptato** e custodito in archivi chiusi a chiave.  
+Quando un supporto contiene dati autoinstallanti deve essere prima controllato dall'Amministratore di Sistema, al fine di stabilire se i dati che verranno installati possono rappresentare una minaccia al sistema. Anche se generalmente non è rischioso utilizzare il lettore ottico del PC in dotazione per riprodurre CD o DVD musicali o comunque multimediali, si ricorda che e' illegale detenere file musicali e/o video protetti dai diritti d'autore, in formato compresso o non compresso (mp3,wav,wma,avi,mpeg, ecc.)
+ottenuti con metodi ritenuti illegali dalle norme sul diritto d'autore (leggi 248/2000 e 128/04). Si invitano pertanto gli utenti che avessero memorizzato tali file nei PC del Comune di Piove di Sacco o che detenessero copie masterizzate non autorizzate di CD o DVD, di procedere alla cancellazione definitiva dei file e alla rimozione dei supporti contraffatti al fine di non incorrere nelle sanzioni previste dalla normativa vigente.  
+[:bookmark_tabs: Torna all'indice](#indice)  
+
+#### 5.3 Utilizzo delle Stampanti Dipartimentali <a name="5.3"></a>
+
+Presso il Comune di Piove di Sacco sono installate delle stampanti dipartimentali in posizioni strategiche per poter essere utilizzate agevolmente dai dipendenti presenti negli uffici attigui. Queste stampanti vengono definite "[Multifunzione](https://it.wikipedia.org/wiki/Stampante_multifunzione)" perché, oltre alla funzione di **Stampa**, svolgono anche la funzione di **Scanner di rete** e, in pochi casi, anche quelle di **Fax di rete**.  
+Ogni utente che lavora con un computer collegato alla Rete Comunale ha la facoltà di utilizzare una o più stampanti dipartimentali, viene tuttavia richiesto di effettuare la stampa dei dati solo se strettamente necessaria e poi di ritirarla prontamente dai vassoi. In taluni casi è possibile stampare i documenti a colori, anche in questo caso viene richiesta  moderazione a causa del costo elevato di gestione. In caso di stampe molto lunghe si invita a pianificare la stampa in particolari momenti della giornata in modo da non interferire con la normale attività lavorativa. E' buona educazione ripristinare il contenuto dei vassoi della carta qualora si fosse responsabili del loro svuotamento dopo una stampa. 
+> 💡 _Suggerimento_<br>
+> _In tutte le stampanti dipartimentali esiste la possibilità di trattenere la stampa nella stampante e rilasciarla solo quando si è fisicamente presenti davanti alla stampante inserendo un codice di sicurezza, tale funzione, oltre ad evitare che le stampe vengano sottratte erroneamente da altri colleghi, assicura anche la massima privacy durante la stampa.
+
+Quando si usa la stampante per inviare documenti via mail (funzione di Scanner di rete), è necessario fare attenzione a rispettare i seguenti suggerimenti:
+- Per l'invio del documento a se stessi utilizzare la rubrica presente nel pannello, che solitamente viene chiamata `Rubrica indirizzi di rete`, per ricercare il proprio indirizzo nella lista e utilizzarlo come destinatario della scansione.
+- Non inviare **MAI** documenti ad altre persone utilizzando il campo "destinatario" per inserire la mail del vostro corrispondente, la mail verrebbe spedita senza alcun contenuto di testo e priva di un nome mittente valido, inoltre avrebbe come oggetto un testo vuoto. Mail così costituite sono molto simili allo Spam e al Phishing e pertanto possono essere eliminate dai filtri di sicurezza del server di posta ancor prima di arrivare a destinazione. Per evitare questo problema è consigliabile inviare prima la mail a se stessi e poi inoltrarla al vostro corrispondente completandola con un oggetto significativo e magari inserendo del testo nella mail se necessario, in questo modo sarà possibile in futuro effettuare ricerche del materiale inviato cosa che altrimenti non potrebbe essere fatta.
+- Provvedere con frequenza ad eliminare i messaggi contenenti le scansioni per evitare di saturare la propria casella di posta.
+- Ricordarsi che ogni messaggio email ha una dimensione massima che si aggira intorno ai 3Mb, pertanto è consigliabile non produrre mail di singole scansioni con molti fogli ma preferire più messaggi contenenti scansioni con un numero limitato di fogli ciascuna.  
+[:bookmark_tabs: Torna all'indice](#indice)  
 
 ### 6 Utilizzo della rete <a name="6"></a>
-La “rete” è l'insieme di servizi e apparecchiature tra di loro collegate
-attraverso cavi speciali che consentono agli utenti di utilizzare le risorse
-informatiche a prescindere dalla loro dislocazione nell'area del Palazzo
-Municipale o delle sedi periferiche.
-Per evitare un possibile danneggiamento della rete è pertanto proibito
-collegare dispositivi informatici non autorizzati alla rete comunale, siano essi
-computer portatili, palmari, dispositivi WiFi o BlueTooth, senza aver ricevuto
-precise istruzioni dall'Amministratore del Sistema.
-I servizi di rete e i dispositivi di memorizzazione presenti sono
-esclusivamente dedicati a scopi professionali e non possono in alcun modo
-essere utilizzati per scopi diversi. Pertanto qualunque file che non sia legato
-all’attività lavorativa non può essere dislocato, nemmeno per brevi periodi, in
-queste unità. Su queste unità, vengono svolte regolari attività di controllo,
-amministrazione e backup.
-Le password d’ingresso alla rete e ai programmi sono segrete e vanno
-comunicate e gestite secondo le procedure impartite. È assolutamente proibito
-entrare nella rete e nei programmi con altri nomi utente.
-Se si rivelasse la necessità l’Amministratore di Sistema ha la facoltà di
-procedere alla rimozione di ogni file o applicazione che riterrà essere
-pericolosi per la sicurezza sia sugli elaboratori sia sulle unità di rete, a cui
-seguirà comunicazione all’utente proprietario del file o utilizzatore del sistema
-su cui si è effettuato l’intervento.
-Costituisce buona regola la periodica (almeno ogni sei mesi)
-cancellazione dei file obsoleti o inutili. Particolare attenzione deve essere
-prestata alla duplicazione dei dati. È infatti assolutamente da evitare
-un’archiviazione ridondante.
-È cura dell’utente effettuare la stampa dei dati solo se strettamente
-necessaria e di ritirarla prontamente dai vassoi delle stampanti comuni.
-In caso di stampe molto lunghe scegliere la stampante più adatta come
-indicato dall’Amministratore di Sistema e pianificare se possibile la stampa in
-particolari momenti della giornata in modo da non interferire con la normale
-attività lavorativa.
+La “rete” è l'insieme di servizi e apparecchiature tra di loro collegate attraverso cavi speciali che consentono agli utenti di utilizzare le risorse informatiche a prescindere alla loro dislocazione nell'area del Palazzo Municipale o delle sedi periferiche. Per evitare un possibile danneggiamento della rete è pertanto proibito collegare dispositivi informatici non autorizzati alla rete comunale, siano essi computer portatili, palmari, dispositivi WiFi o BlueTooth, senza aver ricevuto precise istruzioni dall'Amministratore di Sistema. I servizi di rete e i dispositivi di memorizzazione di rete presenti nel Comune di Piove di Sacco sono esclusivamente dedicati a scopi professionali e non possono in alcun modo essere utilizzati per scopi diversi. Pertanto qualunque file che non sia legato all’attività lavorativa non può essere dislocato, nemmeno per brevi periodi, in queste unità. Su queste unità, vengono svolte regolari attività di controllo, amministrazione e backup. Le password d’ingresso alla rete e ai programmi sono segrete e vanno comunicate e gestite secondo le procedure impartite. È  assolutamente proibito entrare nella rete e nei programmi con nomi utente diversi da quello assegnato dall'Amministratore del Sistema nella fase di avvio del rapporto di lavoro. Se si rivelasse la necessità, l’Amministratore di Sistema ha la facoltà di procedere alla rimozione di ogni file o applicazione che riterrà essere pericolosi per la sicurezza sia sugli elaboratori sia sulle unità di rete, a cui seguirà comunicazione all’utente proprietario del file su cui si è effettuato l’intervento. Costituisce buona regola la periodica **(almeno ogni sei mesi)** cancellazione dei **file obsoleti o inutili**.  
+> 💡 _Suggerimento_<br>
+> _Per vedere il tutorial su come mantenere in ordine i propri dati andare alla pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo_ [![Static Badge](https://img.shields.io/badge/Link-Liberare%20spazio%20su%20disco-%23bf0000?style=plastic&logo=youtube)](https://youtu.be/XocL2Mg6Nag)
+
+Particolare attenzione deve essere prestata alla **duplicazione dei dati**. È infatti assolutamente da evitare un’archiviazione ridondante.
+
+
 #### 6.1 Uso della posta elettronica <a name="6.1"></a>
 La casella di posta elettronica, assegnata dal Comune di Piove di Sacco
 all’utente, appartenente al dominio “comune.piove.pd.it” o altri domini
@@ -263,8 +254,7 @@ prelevato da siti Internet, se non espressamente autorizzato
 dall’Amministratore di Sistema.
 È tassativamente vietata l’effettuazione di ogni genere di transazione
 finanziaria di carattere personale ivi comprese le operazioni di remote banking,
-acquisti on-line e simili salvo i casi direttamente autorizzati dall’Amministratore
-di Sistema con il rispetto delle normali procedure di acquisto.
+acquisti on-line e simili salvo i casi direttamente autorizzati dall’Amministratore di Sistema con il rispetto delle normali procedure di acquisto.
 È da evitare ogni forma di registrazione a siti i cui contenuti non siano
 legati all’attività lavorativa.
 È vietata la partecipazione a Forum non professionali, l’utilizzo di chat
@@ -354,7 +344,7 @@ programma Thunderbird per gestire la posta elettronica; pertanto, modificando
 la password iniziale di accesso alla rete, viene automaticamente modificata
 anche la password per la lettura della posta elettronica.
 ### 9 L'Inventario dei Dispositivi Informatici <a name="9"></a>
-Viene definito “Inventario dei Dispositivi Informatici” la lista di tutti i dispositivi informatici (computer, stampanti, monitor, etc.) che rientrano nel “Parco Macchine” del Comune di Piove di Sacco. Il C.E.D., il Titolare del trattamento dei dati e l'Amministratore del Sistema hanno competenza e rispondono solamente delle apparecchiature presenti nell'Inventario dei Dispositivi Informatici. Il numero di dispositivi presenti è limitato in quanto dipende dalle risorse tecniche disponibili.  
+Viene definito “Inventario dei Dispositivi Informatici” la lista di tutti i dispositivi informatici (computer, stampanti, monitor, etc.) che rientrano nel “Parco Macchine” del Comune di Piove di Sacco. Il C.E.D., il Titolare del trattamento dei dati e l'Amministratore di Sistema hanno competenza e rispondono solamente delle apparecchiature presenti nell'Inventario dei Dispositivi Informatici. Il numero di dispositivi presenti è limitato in quanto dipende dalle risorse tecniche disponibili.  
 Il database dell'Inventario Informatico è gestito con un software specifico accessibile solamente agli amministratori di sistema e al personale registrato. E' possibile ottenere informazioni riguardo l'appartenenza o meno all'Inventario Informatico di un determinato dispositivo inoltrando una richiesta mail al servizio di supporto raggiungibile da questo [link]().  
 ### 10 Utilizzo di computer non appartenenti all'Inventario dei Dispositivi Informatici <a name="10"></a>
 L'utilizzo di apparecchiature non fornite dal C.E.D., o comunque non presenti all'interno dell'Inventario dei Dispositivi Informatici, è ovviamente consentito, in questo caso non si applicano le regole descritte nel presente documento; tuttavia si devono sempre applicare le attenzioni e le azioni dettate dal buon senso per non creare situazioni di pericolo o di danno alle altre apparecchiature o al sistema in generale: una di queste attenzioni è, ad esempio, chiedere preventivamente all'Amministratore di Sistema se quello che si intende fare può provocare problemi al sistema.  
