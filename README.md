@@ -25,7 +25,7 @@ In qualsiasi caso, sostituire la stringa `/percorso` con il percorso dove si tro
 Questa funzione ritornerà una stringa alfanumerica di 64 caratteri simile alla seguente: `3f7a1a06f86a6f90eb835a410b02df4b242669a7d5e6bde228a6cf6b4ce84c8a`, questa stringa rappresenta l'impronta del documento e rimmarrà immutata fintantoché il documento controllato non sarà modificato. Pertanto, con la stringa ricavata dalla funzione di hashing, si va a controllare se  corrisponde alla stringa riportata nella Delibera di Consiglio.  
 Se gli hash coincidono, significa che il file non è stato alterato, se gli hash sono diversi, il file è stato modificato o corrotto.  
 > 💡 _Suggerimento<br>
-> Se volete scaricare i file del regolamento, quello più recente e approvato lo trovi all'interno dell'archivio "Source code.zip" presente in questo [link](https://github.com/Matteo-PioveDiSacco/Regolamento_Informatico/releases) alla sezione che mostra l'etichetta_ `Latest` _a fianco. All'interno dello zip troverai il file_ `regolamento_informatico_comunale.md` _che contiene l'ultimo regolamento approvato. Sempre al link fornito in precedenza, troverete i file di tutte le altre versioni passate._
+> Se volete scaricare i file del regolamento, quello più recente e approvato lo trovate all'interno dell'archivio "Source code.zip" presente in questo [link](https://github.com/Matteo-PioveDiSacco/Regolamento_Informatico/releases) alla sezione che mostra l'etichetta_ `Latest` _a fianco. All'interno dello zip troverai il file_ `regolamento_informatico_comunale.md` _che contiene l'ultimo regolamento approvato. Sempre al link fornito in precedenza, troverete i file di tutte le altre versioni passate._
 
 <br> 
 
