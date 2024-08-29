@@ -15,7 +15,7 @@ I Regolamenti Comunali sono Atti del Comune che devono essere approvati e poi em
 - 1 L'hash del file del regolamento è lo stesso che viene riportato nella delibera di Consiglio.
 - 2 La delibera di Consiglio firmata digitalmente supera tutti i controlli delle firme digitali.
 
-Il primo punto si ottiene scaricando il file del regolamento, ovvero [`regolamento_informatico_comunale.md`](regolamento_informatico_comunale.md) e calcolando il suo hash con un algoritmo `SHA-256`. Questa attività si esegue facilmente sia con sistema operativo Windows che Linux e MacOS, andando al prompt dei comandi del S.O. e digitando il comando:
+Il primo punto si ottiene scaricando il file del regolamento che stai leggendo o di cui intendi verificare la validità e calcolando il suo hash con un algoritmo `SHA-256`. Questa attività si esegue facilmente sia con sistema operativo Windows che Linux e MacOS, andando al prompt dei comandi del S.O. e digitando il comando:
 - `certutil -hashfile "C:\percorso\regolamento_informatico_comunale.md" SHA256` nel caso di S.O. Windows.
 - `sha256sum /percorso/regolamento_informatico_comunale.md` nel caso di S.O. Linux.
 - `shasum -a 256 /percorso/regolamento_informatico_comunale.md` nel caso di S.O. MacOS.
@@ -23,6 +23,9 @@ Il primo punto si ottiene scaricando il file del regolamento, ovvero [`regolamen
 In qualsiasi caso, sostituire la stringa `/percorso` con il percorso dove si trova il file `regolamento_informatico_comunale.md` che avete scaricato. 
 Questa funzione ritornerà una stringa alfanumerica di 64 caratteri simile alla seguente: `3f7a1a06f86a6f90eb835a410b02df4b242669a7d5e6bde228a6cf6b4ce84c8a`, questa stringa rappresenta l'impronta del documento e rimmarrà immutata fintantoché il documento controllato non sarà modificato. Pertanto, con la stringa ricavata dalla funzione di hashing, si va a controllare se  corrisponde alla stringa riportata nella Delibera di Consiglio.  
 Se gli hash coincidono, significa che il file non è stato alterato, se gli hash sono diversi, il file è stato modificato o corrotto.  
+> 💡 _Suggerimento<br>
+> Se volete scaricare i file del regolamento, quello più recente e approvato lo trovi all'interno dell'archivio "Source code.zip" presente in questo [link](https://github.com/Matteo-PioveDiSacco/Regolamento_Informatico/releases) alla sezione che mostra l'etichetta_ `Latest` _a fianco. All'interno dello zip troverai il file_ `regolamento_informatico_comunale.md` _che contiene l'ultimo regolamento approvato. Sempre al link fornito in precedenza, troverete i file di tutte le altre versioni passate._
+
 <br>
 Il secondo punto si ottiene semplicemente verificando che il file dell'Atto di approvazione del Regolamento superi tutti i controlli previsti dalla firma digitale, solitamente deve essere impiegato un software di terze parti come [Dike](https://www.firma.infocert.it/) o [Aruba Sign](https://www.pec.it/firma-digitale.aspx), in alcuni casi è possibile servirsi di verificatori on-line che non necessitano di installazione di software nel PC. Se il file supera i controlli allora significa che il contenuto non è stato modificato e quindi si tratta di un atto ufficiale regolare, altrimenti il file non è valido e deve essere considerato corrotto o modificato senza permesso.  
 Concludendo, se entrambe le verifiche danno esito positivo allora quello che state leggendo è esattamente il Regolamento approvato dal Consiglio Comunale, altrimenti è possibile che uno dei documenti (o entrambi) sia stato corrotto o modificato senza permesso e pertanto bisogna scartarlo.
