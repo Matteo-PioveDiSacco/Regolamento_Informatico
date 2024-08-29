@@ -31,18 +31,18 @@
 ### 1 Premessa <a name="1"></a>
 La progressiva diffusione delle nuove tecnologie informatiche, e l'accesso alla rete Internet dai Personal Computer, espone il Comune di Piove di Sacco ai rischi di un coinvolgimento sia patrimoniale che penale, creando problemi alla sicurezza e all’immagine del Comune stesso.  
 Premesso quindi che l’utilizzo delle risorse informatiche e telematiche del Comune deve sempre ispirarsi al **principio della diligenza e correttezza**, comportamenti che normalmente si adottano nell’ambito di un rapporto di lavoro, il Comune di Piove di Sacco ha adottato un Regolamento interno diretto ad evitare che comportamenti inconsapevoli possano innescare problemi o minacce alla sicurezza nel trattamento dei dati.  
-Il presente regolamento si applica alle apparecchiature presenti all'interno dell'[**Inventario dei Dispositivi Informatici**](#9) (vedere il capitolo 9) e, in misura ridotta, anche a quelle che non ne fanno parte e che, tuttavia, vengono comunque utilizzate nei locali del Comune di Piove di Sacco (vedere il [capitolo 10](#10)).  
+Il presente regolamento si applica alle apparecchiature presenti all'interno dell'**Inventario dei Dispositivi Informatici** (vedere il [capitolo 9](#9)) e, in misura ridotta, anche a quelle che non ne fanno parte e che, tuttavia, vengono comunque utilizzate nei locali del Comune di Piove di Sacco (vedere il [capitolo 10](#10)).  
 [:bookmark_tabs: Torna all'indice](#indice)  
  
 ### 2 Nomi dei PC <a name="2"></a>
-Ogni PC collegato alla rete comunale ha un codice univoco chiamato “Nome Computer” che lo identifica nel dominio. L'operatore è in grado di conoscere il nome del PC in dotazione osservando il desktop nell'angolo in basso a destra come mostrato nell'immagine seguente:  
+Ogni PC collegato alla rete comunale ha un codice univoco chiamato “**Nome Computer**” che lo identifica nel dominio. L'operatore è in grado di conoscere il nome del PC in dotazione osservando il desktop nell'angolo in basso a destra come mostrato nell'immagine seguente:  
 ![nomecomputer](https://github.com/user-attachments/assets/4120cd2f-fc26-42ea-bbd8-0aa4fc92c2e2)
 
 Conoscere il nome del PC su cui si sta lavorando è fondamentale per avvalersi dell'assistenza tecnica remota che lo richiederà ad ogni sessione di collegamento (vedere [capitolo 7](#7)).  
 [:bookmark_tabs: Torna all'indice](#indice)  
 
-### 3 Elenco dei Fornitori delle procedure software <a name="3"></a>
-
+### 3 Repository Youtube per la Formazione Informatica dei dipendenti <a name="3"></a>
+E' presente un canale Youtube dedicato alla formazione informatica dei Dipendenti del Comune di Piove di Sacco al link [https://www.youtube.com/@formazioneincomune](https://www.youtube.com/@formazioneincomune) , consultabile illimitatamente in ogni momento 
 [:bookmark_tabs: Torna all'indice](#indice)  
 
 ### 4 Informazioni riservate <a name="4"></a>
