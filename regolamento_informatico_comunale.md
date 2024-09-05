@@ -2,20 +2,21 @@
 ## Comune di Piove di Sacco ![Static Badge](https://img.shields.io/badge/Anno-2024-%23eeba30?style=plastic)
 
 ### Indice generale <a name="indice"></a>
-[1 Premessa](#1) 🆗  
-[2 Nomi dei PC](#2) 🆗  
-[3 Repository Youtube per la Formazione Informatica dei dipendenti](#3) 👷‍♂️  
-[4 Informazioni riservate](#4) 🆗  
-[5 Utilizzo dei dispositivi informatici](#5) 🆗  
->[5.1 Utilizzo delle pen-drive e memorie di massa USB](#5.1) 🆗  
->[5.2 Precauzioni durante l'uso delle memorie di massa](#5.2) 🆗  
->[5.3 Utilizzo delle Stampanti Dipartimentali](#5.3) 👷‍♂️  
+[1 Premessa](#1)  
+[2 Nomi dei PC](#2)  
+[3 Repository Youtube per la Formazione Informatica dei dipendenti](#3)  
+[4 Informazioni riservate](#4)  
+[5 Utilizzo dei dispositivi informatici](#5)  
+>[5.1 Utilizzo delle pen-drive e memorie di massa USB](#5.1)  
+>[5.2 Precauzioni durante l'uso delle memorie di massa](#5.2)  
+>[5.3 Utilizzo delle Stampanti Dipartimentali](#5.3)   
 
 [6 Utilizzo della rete](#6)
->[6.1 Uso della posta elettronica](#6.1)  
->[6.2 La Posta Elettronica Certificata (PEC)](#6.2)  
->[6.3 Il servizio BoxRoom](#6.3)  
->[6.4 Uso della rete Internet e dei relativi servizi](#6.4)
+>[6.1 Disposizioni per la memorizzazione dei file nelle risorse condivise](#6.1)
+>[6. Uso della posta elettronica](#6.1)
+>[6. La Posta Elettronica Certificata (PEC)](#6.2)  
+>[6. Il servizio BoxRoom](#6.3)  
+>[6. Uso della rete Internet e dei relativi servizi](#6.4)
 
 [7 Teleassistenza o Assistenza Remota](#7)  
 [8 Gestione delle password](#8)  
@@ -43,8 +44,8 @@ Conoscere il nome del PC su cui si sta lavorando è fondamentale per avvalersi d
 
 ### 3 Repository Youtube per la Formazione Informatica dei dipendenti <a name="3"></a>
 E' presente un canale Youtube dedicato alla formazione informatica dei Dipendenti del Comune di Piove di Sacco al link [https://www.youtube.com/@formazioneincomune](https://www.youtube.com/@formazioneincomune) , consultabile senza limitazioni in ogni momento.  
-Qui è possibile trovare diversi tutorial che mostrano in maniera pratica e con esempi come si possono risolvere i problemi quotidiani che incontrano gli utenti del Comune, ad esempio come cambiare la propria password, come usare il calendario/agenda dell'ufficio, come effettuare una videoconferenza, etc. I video vengono aggiunti frequentemente pertanto si invita a visitare la pagina con una certa frequenza oppure iscriversi al canale per rimanere sempre informati quando è disponibile un nuovo video.
-Ognuno dei tutorial è stato realizzato sulla base di esperienze e problematiche raccolte dall'ufficio C.E.D. nel corso di molti anni di attività, pertanto ogni utente è invitato a visitare il canale prima di aprire una segnalazione tecnica in quanto c'è la possibilità che si possa trovare autonomamente una soluzione all'interno dei video e quindi risolvendo da soli il problema aumentando in questo modo il proprio bagaglio di esperienza.   
+Qui è possibile trovare diversi tutorial che mostrano in maniera pratica e con esempi come eseguire le funzioni informatiche di base che ogni dipendente Comunale deve conoscere, ad esempio: cambiare la propria password, usare il calendario/agenda dell'ufficio, effettuare una videoconferenza, etc. I video vengono aggiunti frequentemente pertanto si invita a visitare spesso la pagina oppure iscriversi al canale per non perdere nessuna delle nuove pubblicazioni e rimanere sempre aggiornati sui contenuti più recenti.
+Ognuno dei tutorial è stato realizzato sulla base di esperienze raccolte dall'ufficio C.E.D. nel corso di molti anni dedicati al supporto dell'utenza, pertanto ogni dipendente è invitato a visitare il canale prima di aprire una segnalazione tecnica in quanto c'è la possibilità che sia presente nel catalogo dei contenuti un video tutorial che spiega come trovare autonomamente una soluzione aiutando a risolvere da soli il problema aumentando in questo modo il proprio bagaglio di esperienza.   
 [:bookmark_tabs: Torna all'indice](#indice)  
 
 ### 4 Informazioni riservate <a name="4"></a>
@@ -76,8 +77,8 @@ Se l'esigenza per cui si pensa di aver bisogno di una memoria di massa USB è qu
 - **Il servizio BoxRoom** (vedi [capitolo 6.3](#6.3)) che, tra le altre cose, consente di trasferire file di grandi dimensioni evitando lo speco di supporti magnetici ed ottici destinati poi allo smaltimento come rifiuto non riciclabile.
 
 Qualora si dovesse comunque procedere con l'uso delle memorie di massa USB ad esempio per conservare grandi quantità di file storici, è necessario contattare l'Amministratore di Sistema per farsi consegnare un dispositivo opportunamente formattato e criptato così da limitare il più possibile pericoli di esfiltrazione dati derivati da furto, smarrimento o uso non autorizzato della memoria stessa.
-> ⚠️ _Attenzione!_<br>
-> _Non è ammesso l'uso di memorie di massa USB che non siano state preventivamente preparate e controllate dall'Amministratore di Sistema, ogni dispositivo estraneo deve essere rimosso e consegnato al C.E.D. per essere riformattato e criptato._
+> ⚠️ _Attenzione!<br>
+> Non è ammesso l'uso di memorie di massa USB che non siano state preventivamente preparate e controllate dall'Amministratore di Sistema, ogni dispositivo estraneo deve essere rimosso e consegnato al C.E.D. per essere riformattato e criptato._
 
 Si ricorda che anche un semplice telefono cellulare o smartphone collegato alla porta USB del computer per la ricarica viene riconosciuto dal sistema come un dispositivo di archiviazione di massa USB. Di conseguenza, rappresenta un potenziale rischio per la sicurezza. Per questo motivo, **non è consentito collegare il telefono al PC**.  
 [:bookmark_tabs: Torna all'indice](#indice)  
@@ -85,34 +86,78 @@ Si ricorda che anche un semplice telefono cellulare o smartphone collegato alla 
 #### 5.2 Precauzioni durante l'uso delle memorie di massa <a name="5.2"></a>
 E' stato detto che ogni memoria di massa USB, prima di essere utilizzata dall'utente finale, deve essere preparata e criptata preventivamente dall'Amministratore di Sistema.
 Quando i supporti di memorie di massa (dischetti, cassette, cartucce, CD, DVD, dispositivi di memorizzazione USB, etc.) contengono dati sensibili e giudiziari devono essere adottate misure particolare onde evitare che il loro contenuto possa essere recuperato (punto 22 del disciplinare tecnico, D. Lgs. 196 del 30/06/2003). Una persona esperta potrebbe infatti recuperare i dati memorizzati anche dopo la loro cancellazione. Qualunque supporto contenente dati sensibili e giudiziari (punto 21 del disciplinare tecnico, D. Lgs. 196 del 30/06/2003) **deve essere criptato** e custodito in archivi chiusi a chiave.  
+> 💡 _Suggerimento<br>
+> E' disponibile un tutorial che mostra come cifrare le memorie di massa nella pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo_ [![Static Badge](https://img.shields.io/badge/Link-Cifrare%20memorie%20di%20massa-%239ec9cf?style=plastic&logo=youtube)](https://youtu.be/3vMUBhOPWQs).
+
 Quando un supporto contiene dati autoinstallanti deve essere prima controllato dall'Amministratore di Sistema, al fine di stabilire se i dati che verranno installati possono rappresentare una minaccia al sistema. Anche se generalmente non è rischioso utilizzare il lettore ottico del PC in dotazione per riprodurre CD o DVD musicali o comunque multimediali, si ricorda che e' illegale detenere file musicali e/o video protetti dai diritti d'autore, in formato compresso o non compresso (mp3,wav,wma,avi,mpeg, ecc.)
 ottenuti con metodi ritenuti illegali dalle norme sul diritto d'autore (leggi 248/2000 e 128/04). Si invitano pertanto gli utenti che avessero memorizzato tali file nei PC del Comune di Piove di Sacco o che detenessero copie masterizzate non autorizzate di CD o DVD, di procedere alla cancellazione definitiva dei file e alla rimozione dei supporti contraffatti al fine di non incorrere nelle sanzioni previste dalla normativa vigente.  
 [:bookmark_tabs: Torna all'indice](#indice)  
 
 #### 5.3 Utilizzo delle Stampanti Dipartimentali <a name="5.3"></a>
 
-Presso il Comune di Piove di Sacco sono installate delle stampanti dipartimentali in posizioni strategiche per poter essere utilizzate agevolmente dai dipendenti presenti negli uffici attigui. Queste stampanti vengono definite "[Multifunzione](https://it.wikipedia.org/wiki/Stampante_multifunzione)" perché, oltre alla funzione di **Stampa**, svolgono anche la funzione di **Scanner di rete** e, in pochi casi, anche quelle di **Fax di rete**.  
+Presso il Comune di Piove di Sacco sono state installate stampanti dipartimentali in posizioni strategiche per consentire un utilizzo agevole ai dipendenti degli uffici attigui. Queste stampanti vengono definite "[Multifunzione](https://it.wikipedia.org/wiki/Stampante_multifunzione)" perché, oltre alla funzione di **Stampa**, svolgono anche la funzione di **Scanner di rete** e, in alcuni casi, anche quelle di **Fax**.  
 Ogni utente che lavora con un computer collegato alla Rete Comunale ha la facoltà di utilizzare una o più stampanti dipartimentali, viene tuttavia richiesto di effettuare la stampa dei dati solo se strettamente necessaria e poi di ritirarla prontamente dai vassoi. In taluni casi è possibile stampare i documenti a colori, anche in questo caso viene richiesta  moderazione a causa del costo elevato di gestione. In caso di stampe molto lunghe si invita a pianificare la stampa in particolari momenti della giornata in modo da non interferire con la normale attività lavorativa. E' buona educazione ripristinare il contenuto dei vassoi della carta qualora si fosse responsabili del loro svuotamento dopo una stampa. 
-> 💡 _Suggerimento_<br>
-> _In tutte le stampanti dipartimentali esiste la possibilità di trattenere la stampa nella stampante e rilasciarla solo quando si è fisicamente presenti davanti alla stampante inserendo un codice di sicurezza, tale funzione, oltre ad evitare che le stampe vengano sottratte erroneamente da altri colleghi, assicura anche la massima privacy durante la stampa._
+> 💡 _Suggerimento<br>
+> Le stampanti dipartimentali consentono di trattenere i documenti fino a quando l'utente, direttamente sulla stampante, inserisce un codice di sicurezza, garantendo così privacy e prevenendo il ritiro accidentale da parte di altri colleghi._
 
-Quando si usa la stampante per inviare documenti via mail (funzione di Scanner di rete), è necessario fare attenzione a rispettare i seguenti suggerimenti:
+Quando si usa la stampante per inviare documenti via email (funzione **Scanner di rete**), è necessario fare attenzione a rispettare i seguenti suggerimenti:
 - Per l'invio del documento a se stessi utilizzare la rubrica presente nel pannello, che solitamente viene chiamata `Rubrica indirizzi di rete`, per ricercare il proprio indirizzo nella lista e utilizzarlo come destinatario della scansione.
-- Non inviare **MAI** documenti ad altre persone utilizzando il campo "destinatario" per inserire la mail del vostro corrispondente, la mail verrebbe spedita senza alcun contenuto di testo e priva di un nome mittente valido, inoltre avrebbe come oggetto un testo vuoto. Mail così costituite sono molto simili allo Spam e al Phishing e pertanto possono essere eliminate dai filtri di sicurezza del server di posta ancor prima di arrivare a destinazione. Per evitare questo problema è consigliabile inviare prima la mail a se stessi e poi inoltrarla al vostro corrispondente completandola con un oggetto significativo e magari inserendo del testo nella mail se necessario, in questo modo sarà possibile in futuro effettuare ricerche del materiale inviato cosa che altrimenti non potrebbe essere fatta.
+- Non inviare **MAI** documenti ad altre persone utilizzando il campo "destinatario" per inserire la email del vostro corrispondente, la email verrebbe spedita senza alcun contenuto di testo e priva di un nome mittente valido, inoltre anche l'oggetto sarebbe vuoto. Email così costituite sono molto simili allo [Spam](https://it.wikipedia.org/wiki/Spam) e al [Phishing](https://it.wikipedia.org/wiki/Phishing) e pertanto possono essere eliminate dai filtri di sicurezza dei server di posta ancor prima di arrivare a destinazione. Per evitare questo problema è consigliabile inviare prima la email a se stessi e poi inoltrarla al vostro corrispondente completandola con un oggetto significativo e inserendo del testo nel corpo della email se necessario, in questo modo sarà possibile in futuro effettuare ricerche del materiale inviato cosa che altrimenti non potrebbe essere fatta.
 - Provvedere con frequenza ad eliminare i messaggi contenenti le scansioni per evitare di saturare la propria casella di posta.
-- Ricordarsi che ogni messaggio email ha una dimensione massima che si aggira intorno ai 3Mb, pertanto è consigliabile non produrre mail di singole scansioni con molti fogli ma preferire più messaggi contenenti scansioni con un numero limitato di fogli ciascuna.
+- Ricordarsi che ogni messaggio email ha una dimensione massima che si aggira intorno ai 3Mb, pertanto si consiglia di produrre scansioni di pochi allegati in più messaggi distribuiti nel tempo anziché raggruppare tutte le scansioni in un'unica email.
+
+> 💡 _Suggerimento<br>
+> E' disponibile un tutorial che mostra come inviare email massive nella pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo_ [![Static Badge](https://img.shields.io/badge/Link-Mail%20Massive-%23ffcf40?style=plastic&logo=youtube)](https://youtu.be/rMNsZMGZfmY).   
 
 [:bookmark_tabs: Torna all'indice](#indice)  
 
 ### 6 Utilizzo della rete <a name="6"></a>
-La “rete” è l'insieme di servizi e apparecchiature tra di loro collegate attraverso cavi speciali che consentono agli utenti di utilizzare le risorse informatiche a prescindere alla loro dislocazione nell'area del Palazzo Municipale o delle sedi periferiche. Per evitare un possibile danneggiamento della rete è pertanto proibito collegare dispositivi informatici non autorizzati alla rete comunale, siano essi computer portatili, palmari, dispositivi WiFi o BlueTooth, senza aver ricevuto precise istruzioni dall'Amministratore di Sistema. I servizi di rete e i dispositivi di memorizzazione di rete presenti nel Comune di Piove di Sacco sono esclusivamente dedicati a scopi professionali e non possono in alcun modo essere utilizzati per scopi diversi. Pertanto qualunque file che non sia legato all’attività lavorativa non può essere dislocato, nemmeno per brevi periodi, in queste unità. Su queste unità, vengono svolte regolari attività di controllo, amministrazione e backup. Le password d’ingresso alla rete e ai programmi sono segrete e vanno comunicate e gestite secondo le procedure impartite. È  assolutamente proibito entrare nella rete e nei programmi con nomi utente diversi da quello assegnato dall'Amministratore del Sistema nella fase di avvio del rapporto di lavoro. Se si rivelasse la necessità, l’Amministratore di Sistema ha la facoltà di procedere alla rimozione di ogni file o applicazione che riterrà essere pericolosi per la sicurezza sia sugli elaboratori sia sulle unità di rete, a cui seguirà comunicazione all’utente proprietario del file su cui si è effettuato l’intervento. Costituisce buona regola la periodica **(almeno ogni sei mesi)** cancellazione dei **file obsoleti o inutili**.  
+La “rete” è l'insieme di servizi e apparecchiature tra di loro collegate attraverso cavi speciali che consentono agli utenti di utilizzare le risorse informatiche a prescindere alla loro dislocazione nell'area del Palazzo Municipale o delle sedi periferiche. Per evitare un possibile danneggiamento o malfunzionamento della rete è pertanto proibito collegare dispositivi informatici non autorizzati alla rete comunale, siano essi computer portatili, palmari, dispositivi WiFi o BlueTooth, senza aver ricevuto precise istruzioni dall'Amministratore di Sistema. I servizi di rete e i dispositivi di memorizzazione di rete presenti nel Comune di Piove di Sacco sono esclusivamente dedicati a scopi professionali e non possono in alcun modo essere utilizzati per scopi diversi. Pertanto qualunque file che non sia legato all’attività lavorativa non può essere dislocato, nemmeno per brevi periodi, in queste unità. Su queste unità, vengono svolte regolari attività di controllo, amministrazione e backup. Le password d’ingresso alla rete e ai programmi sono segrete e vanno comunicate e gestite secondo le procedure impartite. È  assolutamente proibito entrare nella rete e nei programmi con nomi utente diversi da quello assegnato dall'Amministratore del Sistema nella fase di avvio del rapporto di lavoro. Se si rivelasse la necessità, l’Amministratore di Sistema ha la facoltà di procedere alla rimozione di ogni file o applicazione che riterrà essere pericolosi per la sicurezza sia sugli elaboratori sia sulle unità di rete, a cui seguirà comunicazione all’utente proprietario del file su cui si è effettuato l’intervento.  
+
+#### 6.1 Quote e spazio disponibile <a name="6.1"></a>
+Ad ogni utente utilizzatore dei sistemi informatici del Comune di Piove di Sacco viene assicurato uno spazio limitato di risorse di rete dove memorizzare i propri dati, la quantità di spazio, definita quota, è calcolata in base alla disponibilità dei server e delle procedure di backup ad essi collegate.
+Sono disponibili tre tipologie di risorsa di rete:
+- **Spazio personale** (chiamato anche `Home directory`), che costituisce uno spazio privato accessibile solamente all'utente che ne è proprietario;
+- **Spazio di gruppo** (solitamente mappato con la lettera "**G:\\**"), che costituisce il luogo dove tutti gli appartenenti ad uno specifico gruppo o ufficio possono leggere e scrivere;
+- **Spazio temporaneo** (solitamente mappato con la lettera "**K:\\**"), chiamato anche `Kamikaze`, è una risorsa che cancella tutto il contenuto presente al suo interno dopo 24 ore dal suo inserimento;
+E' importante sapere che le prime due tipologie di risorse sono coperte dal servizio di [backup](https://it.wikipedia.org/wiki/Backup) giornaliero e i salvataggi sono mantenuti per un periodo congruo (definito nel documento [Misure Minime di sicurezza](https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict) adottato.  
+   
+Costituisce buona regola la periodica **(almeno ogni sei mesi)** cancellazione dei **file obsoleti o inutili**.  
 > 💡 _Suggerimento_<br>
 > _Per vedere il tutorial su come mantenere in ordine i propri dati andare alla pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo_ [![Static Badge](https://img.shields.io/badge/Link-Liberare%20spazio%20su%20disco-%23bf0000?style=plastic&logo=youtube)](https://youtu.be/XocL2Mg6Nag)
 
 Particolare attenzione deve essere prestata alla **duplicazione dei dati**. È infatti assolutamente da evitare un’archiviazione ridondante.
 
+#### 6.1 Disposizioni per la memorizzazione dei file nelle risorse condivise <a name="6.1"></a>
+Per garantire una gestione efficiente e ordinata delle risorse di rete, è fondamentale adottare alcuni accorgimenti chiave:
+- **Memorizzare solo file rilevanti per il lavoro**: Concentrarsi esclusivamente sui documenti essenziali per le attività lavorative, evitando di sovraccaricare lo spazio con file non necessari.
+- **Evitare la creazione di file duplicati**: Assicurarsi che ogni file esista solo una volta per prevenire confusione e spreco di spazio.
+- **Usare nomi di file brevi e chiari**: Evitare nomi di file inutilmente lunghi che possono risultare difficili da gestire e leggere.
+- **Non utilizzare caratteri speciali nei nomi di file**: Adottare solo caratteri alfanumerici e trattini per garantire compatibilità e facilitare la gestione dei file.
+- **Escludere file eseguibili o binari dalla memorizzazione**: Non memorizzare file eseguibili o binari per evitare rischi di sicurezza e problemi di compatibilità.
+- **Evitare file di grandi dimensioni**: Preferire file di dimensioni contenute per migliorare la performance e la gestione delle risorse.
+- **Effettuare cancellazioni periodiche**: Rimuovere regolarmente i file obsoleti o non più utili per mantenere l'organizzazione e l'efficienza.
+- **Optare per la memorizzazione nel gestionale**: Dove possibile, memorizzare i file come allegati al fascicolo nel gestionale dell'ente piuttosto che nel filesystem del fileserver, per una migliore integrazione e accessibilità.  
+Adottare questi accorgimenti contribuisce a mantenere le risorse di rete ben organizzate e funzionali, migliorando l'efficienza e riducendo i rischi di gestione e sicurezza.
 
-#### 6.1 Uso della posta elettronica <a name="6.1"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### 6. Uso della posta elettronica
 La casella di posta elettronica, assegnata dal Comune di Piove di Sacco
 all’utente, appartenente al dominio “comune.piove.pd.it” o altri domini
 istituzionali utilizzati dal Comune di Piove di Sacco, è uno strumento di lavoro.
@@ -120,7 +165,7 @@ Le persone assegnatarie delle caselle di posta elettronica sono responsabili
 del corretto utilizzo delle stesse.
 È fatto divieto di utilizzare le caselle di posta elettronica aziendale per
 l’invio di messaggi personali. Per la partecipazione a dibattiti, forum o mailing-
-list è richiesta esplicita autorizzazione (in forma scritta tramite e-mail).
+list è richiesta esplicita autorizzazione (in forma scritta tramite email).
 È buona norma evitare messaggi completamente estranei al rapporto di
 lavoro o alle relazioni tra colleghi. La casella di posta deve essere mantenuta
 in ordine, cancellando documenti inutili e soprattutto allegati ingombranti.
@@ -129,21 +174,21 @@ ricerche nell'archivio della propria posta utilizzando come parametri di ricerca
 almeno i seguenti campi: mittente, destinatario, data di invio/ricezione e
 oggetto. Normalmente i primi 3 campi sono obbligatori mentre l'oggetto può
 anche essere omesso, tuttavia questa è una pratica che viene vivamente
-sconsigliata: la mancanza di un oggetto in una mail la rende praticamente
+sconsigliata: la mancanza di un oggetto in una email la rende praticamente
 invisibile con il conseguente rischio di aumentare inutilmente lo spazio
-utilizzato nell'archivio a disposizione. Non è consigliabile nemmeno creare mail
+utilizzato nell'archivio a disposizione. Non è consigliabile nemmeno creare email
 con un oggetto lunghissimo: qualora dovesse rendersi necessaria
 l'esportazione del proprio archivio email in un supporto come un CD o un DVD,
 il nome dell'oggetto, che solitamente viene preso come riferimento per il nome
 del file, verrebbe troncato ai primi 207 caratteri (considerando anche il
-percorso); si conclude quindi che l'inserimento di un l'oggetto in una mail è
+percorso); si conclude quindi che l'inserimento di un l'oggetto in una email è
 fortemente consigliato e deve essere il più sintetico e chiaro possibile.
 La documentazione elettronica che costituisce per l’azienda “know how”
 aziendale tecnico o commerciale protetto (tutelato in base all’art. 6 bis del r.d.
 29.6.1939 n.1127), e che, quindi, viene contraddistinta da diciture od
 avvertenze dirette ad evidenziarne il carattere riservato o segreto a tutela del
 patrimonio dell’impresa, non può essere comunicata all’esterno senza
-preventiva autorizzazione (in forma scritta tramite e-mail) dell'Amministrazione
+preventiva autorizzazione (in forma scritta tramite email) dell'Amministrazione
 Comunale.
 È possibile utilizzare la ricevuta di ritorno per avere la conferma
 dell’avvenuta lettura del messaggio da parte del destinatario, ma di norma per
@@ -182,7 +227,7 @@ elettronica certificata.
 non contiene caselle email non-PEC).
 Il Comune di Piove di Sacco ha attualmente attive le seguenti caselle di
 posta certificata:
-Indirizzo mail
+Indirizzo email
 Ufficio responsabile
 
 polisportello@pec.comune.piove.pd.it
@@ -210,7 +255,7 @@ trasmissione o anomalie; può anche essere impiegata per scambiare
 messaggi con provider non certificati ma in questo caso si verifica un'anomalia
 nella trasmissione dovuta al fatto che il provider contattato non supporta la
 certificazione PEC.
-Non è previsto che possa essere instaurato lo scambio di mail certificate
+Non è previsto che possa essere instaurato lo scambio di email certificate
 con il dominio di posta non certificato del Comune di Piove di Sacco, pertanto
 lo scambio di messaggi tra “@pec.comune.piove.pd.it” e
 “@comune.piove.pd.it” e viceversa genera sempre un errore di trasmissione.
@@ -348,7 +393,7 @@ la password iniziale di accesso alla rete, viene automaticamente modificata
 anche la password per la lettura della posta elettronica.
 ### 9 L'Inventario dei Dispositivi Informatici <a name="9"></a>
 Viene definito “Inventario dei Dispositivi Informatici” la lista di tutti i dispositivi informatici (computer, stampanti, monitor, etc.) che rientrano nel “Parco Macchine” del Comune di Piove di Sacco. Il C.E.D., il Titolare del trattamento dei dati e l'Amministratore di Sistema hanno competenza e rispondono solamente delle apparecchiature presenti nell'Inventario dei Dispositivi Informatici. Il numero di dispositivi presenti è limitato in quanto dipende dalle risorse tecniche disponibili.  
-Il database dell'Inventario Informatico è gestito con un software specifico accessibile solamente agli amministratori di sistema e al personale registrato. E' possibile ottenere informazioni riguardo l'appartenenza o meno all'Inventario Informatico di un determinato dispositivo inoltrando una richiesta mail al servizio di supporto raggiungibile da questo [link]().  
+Il database dell'Inventario Informatico è gestito con un software specifico accessibile solamente agli amministratori di sistema e al personale registrato. E' possibile ottenere informazioni riguardo l'appartenenza o meno all'Inventario Informatico di un determinato dispositivo inoltrando una richiesta email al servizio di supporto raggiungibile da questo [link]().  
 ### 10 Utilizzo di computer non appartenenti all'Inventario dei Dispositivi Informatici <a name="10"></a>
 L'utilizzo di apparecchiature non fornite dal C.E.D., o comunque non presenti all'interno dell'Inventario dei Dispositivi Informatici, è ovviamente consentito, in questo caso non si applicano le regole descritte nel presente documento; tuttavia si devono sempre applicare le attenzioni e le azioni dettate dal buon senso per non creare situazioni di pericolo o di danno alle altre apparecchiature o al sistema in generale: una di queste attenzioni è, ad esempio, chiedere preventivamente all'Amministratore di Sistema se quello che si intende fare può provocare problemi al sistema.  
 Resta comunque valido il divieto di collegare queste apparecchiature alla rete comunale o rimpiazzare un dispositivo informatico registrato con uno non registrato nell'Inventario Informatico. L'utente che utilizza tali apparecchiature si assume tutte le responsabilità e se ne accolla gli oneri derivati dalla manutenzione, dalla gestione e dalla messa in sicurezza come meglio descritto nel capitolo 12. Qualora un Ufficio o Servizio Comunale attivi in autonomia un sistema informatico dedicato su cui vengono trattati dati riservati o sensibili dovrà provvedere autonomamente a garantire ed onorare le [disposizioni consigliate dall'AGiD](https://www.agid.gov.it/it/linee-guida) incluse le regole e disposizioni citate nel [Codice Privacy](https://www.garanteprivacy.it/codice), le misure previste dal [Piano Triennale vigente](https://www.agid.gov.it/it/agenzia/piano-triennale) e le [Misure Minime di sicurezza](https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict) obbligatorie.  
