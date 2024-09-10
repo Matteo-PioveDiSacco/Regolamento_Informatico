@@ -94,7 +94,7 @@ Per garantire una gestione efficiente e ordinata dei file memorizzati nel PC o n
   
 - **Effettuare cancellazioni periodiche**: Rimuovere regolarmente i file obsoleti o non più utili per mantenere l'organizzazione e l'efficienza.  
   >:bulb: _Suggerimento:  
-  > E' disponibile un tutorial che mostrano come eliminare i file che occupano tanto spazio nella pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo_ [![Static Badge](https://img.shields.io/badge/Link-Liberare%20spazio%20su%20disco-%23e14f4f?style=plastic&logo=youtube)](https://youtu.be/XocL2Mg6Nag).   
+  > E' disponibile un tutorial che mostra come eliminare i file che occupano tanto spazio nella pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo_ [![Static Badge](https://img.shields.io/badge/Link-Liberare%20spazio%20su%20disco-%23e14f4f?style=plastic&logo=youtube)](https://youtu.be/XocL2Mg6Nag).   
     
 - **Optare per la memorizzazione nel gestionale**: Dove possibile, memorizzare i file come allegati al fascicolo nel gestionale dell'ente piuttosto che nel filesystem del fileserver, per una migliore integrazione e accessibilità.   
 Adottare questi accorgimenti contribuisce a mantenere le risorse di rete ben organizzate e funzionali, migliorando l'efficienza e riducendo i rischi di gestione e sicurezza.   
@@ -170,8 +170,8 @@ Non è consentito installare e/o eseguire programmi provenienti dall’esterno s
 [:bookmark_tabs: Torna all'indice](#indice)    
   
 #### 5.1 Software di base preinstallato <a name="5.1"></a>  
-Tutti i PC appartenenti all'inventario Informatico sobo dotati di un pacchetto software di base che comprende le seguenti funzionalità:  
-- **PortableApps**: un insieme di utility che non necessitano di installazione nel PC e che coprono tutte le esigenze primarie richieste da un PC, ad esempio: una suite per l'**Office Automation**,  un **editor di file**, un **visualizzatore di immagini**, un **player multimediale**,  un sistema per la **gestione degli archivi compressi**, dei **browser internet** e tanto altro.   
+Tutti i PC appartenenti all'inventario Informatico sono dotati di un pacchetto software di base che comprende le seguenti funzionalità:  
+- **PortableApps**: un insieme di utility che non necessitano di installazione nel PC e che coprono tutte le esigenze primarie che si richiedono ad un PC, ad esempio: una suite per l'**Office Automation**,  un **editor di file**, un **visualizzatore di immagini**, un **player multimediale**,  un sistema per la **gestione degli archivi compressi**, dei **browser internet** e tanto altro.   
   > :warning: _**ATTENZIONE!**  
   > Si ricorda che questo software deve rimanere sempre aggiornato autorizzando la finestra di aggiornamento che compare quando necessario subito dopo avere avuto accesso al sistema._
 
@@ -180,7 +180,7 @@ Tutti i PC appartenenti all'inventario Informatico sobo dotati di un pacchetto s
     
 - **Client di posta Thunderbird**: consente di leggere ed inviare email usando il server di posta comunale, conserva le rubriche dei contatti e viene usato anche per consultare i calendari dell'Ente e gestire gli appuntamenti propri e dei colleghi (disponibile anche una versione Cloud chiamata `Webmail`.  
   > :bulb: _Suggerimento:  
-  > E' disponibile un tutorial che mostra come usare la Webmail nella pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** fare riferimento al [capitolo 5.3](#5.3) _Software in Cloud_ per il link di collegamento.
+  > E' disponibile un tutorial che mostra come usare la Webmail nella pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune**. Fare riferimento al [capitolo 5.3](#5.3) **Software in Cloud** per il link di collegamento._
 
 - **Teamviewer**: consente di avviare una sessione di assistenza remota con un Tecnico Informatico dell'Ufficio C.E.D. per ricevere aiuto informatico o sistemistico in tempo reale.  
 - **Zoom**: consente di partecipare o organizzare videoconferenze con i propri colleghi o altre persone nel mondo. Si ricorda che il Comune di Piove di Sacco possiede una licenza Zoom in grado di supportare fino a 100 connessioni simultanee per sessioni di tempo illimitate.  
@@ -230,7 +230,7 @@ L’accesso all’elaboratore è protetto da password la quale deve essere custo
 Le password possono essere formate da lettere (maiuscole o minuscole), numeri e caratteri (punto `.`, virgola `,`, chiocciola `@`, cancelletto `#`, etc.) ricordando che lettere maiuscole e minuscole hanno significati diversi per il sistema; devono essere composte da almeno otto caratteri e non deve contenere riferimenti agevolmente riconducibili all’incaricato. Nel caso si sospetti che la password abbia perso la segretezza deve essere immediatamente sostituita, dandone comunicazione all’Amministratore di Sistema.  
 Qualora l’utente venisse a conoscenza delle password di altro utente, è tenuto a darne immediata notizia all’Amministratore di Sistema. L'uso di password diverse per ogni tipologia di applicazione è indiscutibilmente un sistema che aumenta la sicurezza informatica, tuttavia non facilita l'utente nel ricordarsi tutte le credenziali necessarie, per questo motivo è **estremamente consigliato** utilizzare un programma di gestione delle password per evitare di dimenticarle o renderle facilmente accessibili ad occhi indiscreti a causa di un sistema di archiviazione non conforme, ad esempio tenendo un elenco in formato foglio di testo tra i propri documenti. Il Comune di Piove di Sacco mette a disposizione un programma in Cloud per la gestione delle password Free ed Open Source chiamato `Passman` inserito nella suite di [Nextcloud](#5.3).   
 > 💡 _Suggerimento:  
-> Potete trovare il link relativo al tutorial di **Passman** al [capitolo 5.3](#5.3) Software in Cloud_
+> E' disponibile un tutorial che mostra come usare **Passman** nella pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune**. Fare riferimento al [capitolo 5.3](#5.3) **Software in Cloud** per il link di collegamento._
 
 Si ricorda che ogni singola postazione non deve essere lasciata incustodita in modo da evitare l'accesso a persone non autorizzate. La postazione potrà essere protetta mediante blocco con password effettuando l’operazione di logout o logout rapido (tasto :window: e “L”).  
 > 💡 _Suggerimento:  
