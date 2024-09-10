@@ -27,6 +27,7 @@
 >[6.1 Gestione delle password](#6.1)  
 >[6.2 Malware informatici](#6.2)  
 >[6.3 Cyber Awareness](#6.3)
+>[6.4 Backup Giornaliero dei dati](#6.4)
 
 [7 La Rete](#7)  
 >[7.1 Uso della rete Internet e dei relativi servizi](#7.1)  
@@ -179,8 +180,8 @@ Tutti i PC appartenenti all'inventario Informatico sobo dotati di un pacchetto s
     
 - **Client di posta Thunderbird**: consente di leggere ed inviare email usando il server di posta comunale, conserva le rubriche dei contatti e viene usato anche per consultare i calendari dell'Ente e gestire gli appuntamenti propri e dei colleghi (disponibile anche una versione Cloud chiamata `Webmail`.  
   > :bulb: _Suggerimento:  
-  > E' disponibile un tutorial che mostra come usar ela Webmail nella pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo_ [![Static Badge](https://img.shields.io/badge/Link-Webmail-%23719094?style=plastic&logo=youtube)](https://youtu.be/C1K1_2lBPIc).   
-    
+  > E' disponibile un tutorial che mostra come usare la Webmail nella pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** fare riferimento al [capitolo 5.3](#5.3) _Software in Cloud_ per il link di collegamento.
+
 - **Teamviewer**: consente di avviare una sessione di assistenza remota con un Tecnico Informatico dell'Ufficio C.E.D. per ricevere aiuto informatico o sistemistico in tempo reale.  
 - **Zoom**: consente di partecipare o organizzare videoconferenze con i propri colleghi o altre persone nel mondo. Si ricorda che il Comune di Piove di Sacco possiede una licenza Zoom in grado di supportare fino a 100 connessioni simultanee per sessioni di tempo illimitate.  
   > :bulb: _Suggerimento:  
@@ -207,7 +208,7 @@ Il Comune di Piove di Sacco rende disponibile in modalità Cloud i seguenti appl
 |---|---|---|  
 |Webmail|Gestione della posta elettronica|[![Static Badge](https://img.shields.io/badge/Link-Webmail-%23719094?style=plastic&logo=youtube)](https://youtu.be/C1K1_2lBPIc)|  
 |Passman|Gestione delle password personali|[![Static Badge](https://img.shields.io/badge/Link-Passman-blue?style=plastic&logo=youtube)](https://youtu.be/DrLxrg2Her8)|  
-|NextCloud|Suite in Cloud per la gestione dei calendari e degli appuntamenti, permette inoltre l'invio di file di grandi dimensioni ad utenti esterni, compilazione di documenti e moduli di domande|[![Static Badge](https://img.shields.io/badge/Link-NextCloud-457fe5?style=plastic&logo=youtube)](https://www.youtube.com/playlist?list=PLaLmgs8Y0SDZKOxpKAazCOZiePJLK6gaG)  
+|NextCloud|Suite in Cloud per la gestione dei calendari e degli appuntamenti, permette inoltre l'invio di file di grandi dimensioni ad utenti esterni, la compilazione di documenti e la predisposizione di moduli per domande|[![Static Badge](https://img.shields.io/badge/Link-NextCloud-457fe5?style=plastic&logo=youtube)](https://www.youtube.com/playlist?list=PLaLmgs8Y0SDZKOxpKAazCOZiePJLK6gaG)  
   
 [:bookmark_tabs: Torna all'indice](#indice)  
 
@@ -229,13 +230,12 @@ L’accesso all’elaboratore è protetto da password la quale deve essere custo
 Le password possono essere formate da lettere (maiuscole o minuscole), numeri e caratteri (punto `.`, virgola `,`, chiocciola `@`, cancelletto `#`, etc.) ricordando che lettere maiuscole e minuscole hanno significati diversi per il sistema; devono essere composte da almeno otto caratteri e non deve contenere riferimenti agevolmente riconducibili all’incaricato. Nel caso si sospetti che la password abbia perso la segretezza deve essere immediatamente sostituita, dandone comunicazione all’Amministratore di Sistema.  
 Qualora l’utente venisse a conoscenza delle password di altro utente, è tenuto a darne immediata notizia all’Amministratore di Sistema. L'uso di password diverse per ogni tipologia di applicazione è indiscutibilmente un sistema che aumenta la sicurezza informatica, tuttavia non facilita l'utente nel ricordarsi tutte le credenziali necessarie, per questo motivo è **estremamente consigliato** utilizzare un programma di gestione delle password per evitare di dimenticarle o renderle facilmente accessibili ad occhi indiscreti a causa di un sistema di archiviazione non conforme, ad esempio tenendo un elenco in formato foglio di testo tra i propri documenti. Il Comune di Piove di Sacco mette a disposizione un programma in Cloud per la gestione delle password Free ed Open Source chiamato `Passman` inserito nella suite di [Nextcloud](#5.3).   
 > 💡 _Suggerimento:  
-> Per vedere il tutorial sul funzionamento di Passman andare alla pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo_ [![Static Badge](https://img.shields.io/badge/Link-Passman-blue?style=plastic&logo=youtube)](https://youtu.be/DrLxrg2Her8).  
-  
+> Potete trovare il link relativo al tutorial di **Passman** al [capitolo 5.3](#5.3) Software in Cloud_
+
 Si ricorda che ogni singola postazione non deve essere lasciata incustodita in modo da evitare l'accesso a persone non autorizzate. La postazione potrà essere protetta mediante blocco con password effettuando l’operazione di logout o logout rapido (tasto :window: e “L”).  
 > 💡 _Suggerimento:  
 > E' disponibile un tutorial che mostra come eseguire il Logout Veloce nella pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo_ [![Static Badge](https://img.shields.io/badge/Link-Logout_veloce-%23f7e7b4?style=plastic&logo=youtube)](https://youtu.be/G51YksU6alc).
   
-#### 8.1 Password per la posta elettronica <a name="8.1"></a>  
 Si fa presente che i PC client della rete comunale sono collegati ad un  
 dominio di autenticazione che utilizza la tecnologia “Single Sign On”; questo  
 significa che la password scelta dall'operatore per il collegamento alla rete  
