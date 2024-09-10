@@ -71,12 +71,12 @@ L’Amministratore di Sistema potrà accedere ai dati e agli strumenti informati
 
 #### 4.1 Il Personal Computer <a name="4.1"></a>   
 Qui di seguito vengono esposte le modalità che ogni utente deve seguire per utilizzare al meglio il dispositivo che gli è stato assegnato.   
-- E' compito dell'utilizzatore mantenere sempre in efficenza il proprio dispositivo applicando sempre gli aggiornamenti che mano a mano vengono richiesti, ad esempio PortableApps, Miglioramenti Windows, client di posta Thunderbird, vedere anche la sezione al [capitolo 5](#5) per approfondimenti.  
-- Non è consentito all’utente modificare le caratteristiche impostate sul proprio dispositivo informatico ad esclusione di quelle identificate come personalizzazioni, salvo previa autorizzazione (in forma scritta tramite e-mail) dell’Amministratore di Sistema.   
-- Non è consentito modificare le impostazioni del BIOS o del software di configurazione hardware del sistema. Non è consentita nessuna operazione di forzatura fisica dei dispositivi.   
-- Gli elaboratori **devono essere spenti ogni sera** prima di lasciare gli uffici e in caso di assenze prolungate dall’ufficio, salvo diversa disposizione da parte dell’Amministratore di Sistema. Ricordate che lasciare un elaboratore acceso e incustodito connesso alla rete può essere causa di utilizzo da parte di terzi senza che vi sia la possibilità di provarne in seguito l’indebito uso (vedere anche [capitolo 6](#6) sulla sicurezza).   
-- Non è consentita l’installazione o la connessione nel elaboratore in dotazione di alcun dispositivo di memorizzazione, comunicazione o altro (come ad esempio masterizzatori, modem, chiavette USB, dispositivi wireless, etc.), se non con l’autorizzazione (in forma scritta tramite e-mail) dell’Amministratore di Sistema.   
-- Ogni utente deve prestare la massima attenzione ai supporti di origine esterna, avvertendo immediatamente l’Amministratore di Sistema nel caso in cui vengano rilevati virus.   
+- **E' compito dell'utilizzatore mantenere sempre in efficenza il proprio dispositivo applicando sempre gli aggiornamenti** che mano a mano vengono richiesti, ad esempio PortableApps, Miglioramenti Windows, client di posta Thunderbird, vedere anche la sezione al [capitolo 5](#5) per approfondimenti.  
+- **Non è consentito all’utente modificare le caratteristiche impostate sul proprio dispositivo informatico** ad esclusione di quelle identificate come personalizzazioni, salvo previa autorizzazione (in forma scritta tramite e-mail) dell’Amministratore di Sistema.   
+- **Non è consentito modificare le impostazioni del BIOS** o del software di configurazione hardware del sistema. Non è consentita nessuna operazione di forzatura fisica dei dispositivi.   
+- **Gli elaboratori devono essere spenti ogni sera** prima di lasciare gli uffici e in caso di assenze prolungate dall’ufficio, salvo diversa disposizione da parte dell’Amministratore di Sistema. Ricordate che lasciare un elaboratore acceso e incustodito connesso alla rete può essere causa di utilizzo da parte di terzi senza che vi sia la possibilità di provarne in seguito l’indebito uso (vedere anche [capitolo 6](#6) sulla sicurezza).   
+- **Non è consentita l’installazione** o la connessione nel elaboratore in dotazione di alcun dispositivo di memorizzazione, comunicazione o altro (come ad esempio masterizzatori, modem, chiavette USB, dispositivi wireless, etc.), se non con l’autorizzazione (in forma scritta tramite e-mail) dell’Amministratore di Sistema.   
+- **Ogni utente deve prestare la massima attenzione ai supporti di origine esterna**, avvertendo immediatamente l’Amministratore di Sistema nel caso in cui vengano rilevati virus.   
 [:bookmark_tabs: Torna all'indice](#indice)    
   
 #### 4.2 Disposizioni per la memorizzazione dei file nelle risorse condivise <a name="4.2"></a>  
@@ -87,7 +87,7 @@ Per garantire una gestione efficiente e ordinata dei file memorizzati nel PC o n
 - **Usare nomi di file brevi e chiari**: Evitare nomi di file inutilmente lunghi che possono risultare difficili da gestire e leggere.  
 - **Non utilizzare caratteri speciali nei nomi di file**: Adottare solo caratteri alfanumerici e trattini per garantire compatibilità e facilitare la gestione dei file.  
 - **Escludere file eseguibili o binari dalla memorizzazione**: Non memorizzare file eseguibili o binari per evitare rischi di sicurezza e problemi di compatibilità.  
-- **Evitare file di grandi dimensioni**: Preferire file di dimensioni contenute per migliorare la performance e la gestione delle risorse.  
+- **Evitare file di grandi dimensioni**: Preferire file di dimensioni contenute per migliorare la performance e la gestione delle risorse, nel caso si stessero gestendo fotografie provenienti da Smartphone o fotocamere DSLR o simili, fare sempre attenzione che i file non siano esageratamente (ed inutilmente) definiti, in caso, procedere con il ricampionamento in serie per ridurre la definizione e quindi la grandezza.  
   >:bulb: _Suggerimento:  
   > Sono disponibili dei tutorial che mostrano come comprimere file ed immagini per ridurne le dimensioni nella pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo_ [![Static Badge](https://img.shields.io/badge/Link-Formazione%20in%20Comune-%23005073?style=plastic&logo=youtube)](https://www.youtube.com/@formazioneincomune).   
   
@@ -101,13 +101,13 @@ Adottare questi accorgimenti contribuisce a mantenere le risorse di rete ben org
   
 #### 4.3 I Computer Portatili <a name="4.3"></a>   
 All'interno dell'Inventario Informatico sono presenti dei Personal Computer Portatili, chiamati anche Notebook, che vengono assegnati ai dipendenti con particolari esigenze lavorative o che ricoprono mansioni di elevata qualificazione. Per tali dispositivi valgono le stesse considerazioni fatte per i Personal Computer ([capitolo 4.1](#4.1)), inoltre si aggiunge che:  
-- E' vietato l'uso del Notebook da parte di famigliari o conoscenti: l'assegnatario dovrà evitare categoricamente l'uso da parte di persone che non siano state autorizzate con apposito incarico, si ricorda a tal proposito che le apparecchiature consegnate sono sotto la totale responsabilità dell'assegnatario.  
-- Durante i cicli periodici di manutenzione, tutte le impostazioni presenti nel Notebook vengono resettate alla situazione di consegna, pertanto ogni documento, software aggiuntivo o personalizzazione fatta dall'utente vengono perduti.  
-- E' responsabilità dell'assegnatario custodire e conservare il materiale assegnato con la massima cura e diligenza,  sia durante gli spostamenti sia durante l’utilizzo nel luogo di lavoro. Si ricorda inoltre che in caso di furto o utilizzo non autorizzato da parte di estranei, esiste la reale possibilità di incorrere a problemi di sicurezza ed esfiltrazione di dati sensibili con conseguenze anche serie.  
-- E' necessario non mantenere dati sensibili o importanti nella sua memoria interna, preferite sempre lavorare su piattaforme cloud o eseguire dei backup su supporti esterni criptati (vedere [capitolo 4.6](#4.6)).   
-- I Computer Portatili che vengono utilizzati in ambienti non protetti (ad esempio durante convegni, visite nelle aziende, ecc.), in caso di allontanamento, devono essere custoditi in luoghi sicuri, inoltre è fondamentale che il portatile sia protetto con password forte e che il disco fisso sia criptato per evitare esfiltrazione di dati.   
-- L'assegnatario deve conservare nel modo più sicuro possibile le password di accesso evitando di scriverle in chiaro su postit o altri supporti cartacei che vengono poi conservati assieme al Notebook stesso.  
-- Alla fine del rapporto di lavoro, o al termine del compito per cui era stato assegnato il Notebook, l'utente deve rendere all'Ufficio C.E.D. il materiale ricevuto completo di tutte le sue parti.
+- **E' vietato l'uso del Notebook da parte di famigliari o conoscenti**: l'assegnatario dovrà evitare categoricamente l'uso da parte di persone che non siano state autorizzate con apposito incarico, si ricorda a tal proposito che le apparecchiature consegnate sono sotto la totale responsabilità dell'assegnatario.  
+- **Evitare di modificare le impostazioni del software**: durante i cicli periodici di manutenzione, tutte le impostazioni presenti nel Notebook vengono resettate alla situazione di consegna, pertanto ogni documento, software aggiuntivo o personalizzazione fatta dall'utente vengono perduti.  
+- **E' responsabilità dell'assegnatario custodire e conservare il materiale assegnato** con la massima cura e diligenza,  sia durante gli spostamenti sia durante l’utilizzo nel luogo di lavoro. Si ricorda inoltre che in caso di furto o utilizzo non autorizzato da parte di estranei, esiste la reale possibilità di incorrere a problemi di sicurezza ed esfiltrazione di dati sensibili con conseguenze anche serie.  
+- **E' necessario non mantenere dati sensibili o importanti nella sua memoria interna**, preferite sempre lavorare su piattaforme cloud o eseguire dei backup su supporti esterni criptati (vedere [capitolo 4.6](#4.6)).   
+- **Se usati in ambienti non protetti** (ad esempio durante convegni, visite nelle aziende, ecc.), in caso di allontanamento, devono essere custoditi in luoghi sicuri, inoltre è fondamentale che il portatile sia protetto con password forte e che il disco fisso sia criptato per evitare esfiltrazione di dati.   
+- **Le password di accesso devono essere conservate nel modo più sicuro possibile** evitando di scriverle in chiaro su postit o altri supporti cartacei che vengono poi conservati assieme al Notebook stesso.  
+- **Alla fine del rapporto di lavoro**, o al termine del compito per cui era stato assegnato il Notebook, l'utente deve rendere all'Ufficio C.E.D. il materiale ricevuto completo di tutte le sue parti.
 
 [:bookmark_tabs: Torna all'indice](#indice)    
   
@@ -207,7 +207,7 @@ Il Comune di Piove di Sacco rende disponibile in modalità Cloud i seguenti appl
 |---|---|---|  
 |Webmail|Gestione della posta elettronica|[![Static Badge](https://img.shields.io/badge/Link-Webmail-%23719094?style=plastic&logo=youtube)](https://youtu.be/C1K1_2lBPIc)|  
 |Passman|Gestione delle password personali|[![Static Badge](https://img.shields.io/badge/Link-Passman-blue?style=plastic&logo=youtube)](https://youtu.be/DrLxrg2Her8)|  
-|NextCloud|Suite in Cloud per la gestione dei calendari e degli appuntamenti, permette l'invio di file di grandi dimensioni ad utenti esterni, compilazione di documenti e moduli di domande|[![Static Badge](https://img.shields.io/badge/Link-NextCloud-457fe5?style=plastic&logo=youtube)](https://www.youtube.com/playlist?list=PLaLmgs8Y0SDZKOxpKAazCOZiePJLK6gaG)  
+|NextCloud|Suite in Cloud per la gestione dei calendari e degli appuntamenti, permette inoltre l'invio di file di grandi dimensioni ad utenti esterni, compilazione di documenti e moduli di domande|[![Static Badge](https://img.shields.io/badge/Link-NextCloud-457fe5?style=plastic&logo=youtube)](https://www.youtube.com/playlist?list=PLaLmgs8Y0SDZKOxpKAazCOZiePJLK6gaG)  
   
 [:bookmark_tabs: Torna all'indice](#indice)  
 
