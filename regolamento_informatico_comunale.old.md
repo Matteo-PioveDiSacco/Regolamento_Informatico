@@ -118,8 +118,8 @@ La “rete” è l'insieme di servizi e apparecchiature tra di loro collegate at
 Ad ogni utente utilizzatore dei sistemi informatici del Comune di Piove di Sacco viene assicurato uno spazio limitato di risorse di rete dove memorizzare i propri dati, la quantità di spazio, definita quota, è calcolata in base alla disponibilità dei server e delle procedure di backup ad essi collegate.
 Sono disponibili tre tipologie di risorsa di rete:
 - **Spazio personale** (chiamato anche `Home directory`), che costituisce uno spazio privato accessibile solamente all'utente che ne è proprietario;
-- **Spazio di gruppo** (solitamente mappato con la lettera "**G:\\**"), che costituisce il luogo dove tutti gli appartenenti ad uno specifico gruppo o ufficio possono leggere e scrivere;
-- **Spazio temporaneo** (solitamente mappato con la lettera "**K:\\**"), chiamato anche `Kamikaze`, è una risorsa che cancella tutto il contenuto presente al suo interno dopo 24 ore dal suo inserimento;
+- **Spazio di gruppo** (solitamente mappato con la lettera "**`G:\`**"), che costituisce il luogo dove tutti gli appartenenti ad uno specifico gruppo o ufficio possono leggere e scrivere;
+- **Spazio temporaneo** (solitamente mappato con la lettera "**`K:\`**"), chiamato anche `Kamikaze`, è una risorsa che cancella tutto il contenuto presente al suo interno dopo 24 ore dal suo inserimento;
 E' importante sapere che le prime due tipologie di risorse sono coperte dal servizio di [backup](https://it.wikipedia.org/wiki/Backup) giornaliero e i salvataggi sono mantenuti per un periodo congruo (definito nel documento [Misure Minime di sicurezza](https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict) adottato.  
    
 Costituisce buona regola la periodica **(almeno ogni sei mesi)** cancellazione dei **file obsoleti o inutili**.  
