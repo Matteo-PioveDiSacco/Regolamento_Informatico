@@ -208,7 +208,7 @@ Il Comune di Piove di Sacco rende disponibile in modalità Cloud i seguenti appl
 |---|---|---|  
 |Webmail|Gestione della posta elettronica|[![Static Badge](https://img.shields.io/badge/Link-Webmail-%23719094?style=plastic&logo=youtube)](https://youtu.be/C1K1_2lBPIc)|  
 |Passman|Gestione delle password personali|[![Static Badge](https://img.shields.io/badge/Link-Passman-blue?style=plastic&logo=youtube)](https://youtu.be/DrLxrg2Her8)|  
-|NextCloud|Suite in Cloud per la gestione dei calendari e degli appuntamenti, permette inoltre l'invio di file di grandi dimensioni ad utenti esterni, la compilazione di documenti e la predisposizione di moduli per domande|[![Static Badge](https://img.shields.io/badge/Link-NextCloud-457fe5?style=plastic&logo=youtube)](https://www.youtube.com/playlist?list=PLaLmgs8Y0SDZKOxpKAazCOZiePJLK6gaG)  
+|NextCloud|Suite in Cloud per la gestione dei calendari e degli appuntamenti, permette inoltre l'invio di file di grandi dimensioni ad utenti esterni, la compilazione di documenti e la predisposizione di moduli per domande|[![Static Badge](https://img.shields.io/badge/Link-NextCloud-457fe5?style=plastic&logo=youtube)](https://www.youtube.com/playlist?list=PLaLmgs8Y0SDZKOxpKAazCOZiePJLK6gaG)|  
   
 [:bookmark_tabs: Torna all'indice](#indice)  
 
@@ -259,11 +259,11 @@ anche la password per la lettura della posta elettronica.
 #### 6.4 Backup Giornaliero dei dati<a name="6.4"></a>  
 [:bookmark_tabs: Torna all'indice](#indice)  
 
-### 6 Utilizzo della rete <a name="6"></a>  
+### 7 Utilizzo della rete <a name="7"></a>  
 La “rete” è l'insieme di servizi e apparecchiature tra di loro collegate attraverso cavi speciali che consentono agli utenti di utilizzare le risorse informatiche a prescindere alla loro dislocazione nell'area del Palazzo Municipale o delle sedi periferiche. Per evitare un possibile danneggiamento o malfunzionamento della rete è pertanto proibito collegare dispositivi informatici non autorizzati alla rete comunale, siano essi computer portatili, palmari, dispositivi WiFi o BlueTooth, senza aver ricevuto precise istruzioni dall'Amministratore di Sistema. I servizi di rete e i dispositivi di memorizzazione di rete presenti nel Comune di Piove di Sacco sono esclusivamente dedicati a scopi professionali e non possono in alcun modo essere utilizzati per scopi diversi. Pertanto qualunque file che non sia legato all’attività lavorativa non può essere dislocato, nemmeno per brevi periodi, in queste unità. Su queste unità, vengono svolte regolari attività di controllo, amministrazione e backup. Le password d’ingresso alla rete e ai programmi sono segrete e vanno comunicate e gestite secondo le procedure impartite. È  assolutamente proibito entrare nella rete e nei programmi con nomi utente diversi da quello assegnato dall'Amministratore del Sistema nella fase di avvio del rapporto di lavoro. Se si rivelasse la necessità, l’Amministratore di Sistema ha la facoltà di procedere alla rimozione di ogni file o applicazione che riterrà essere pericolosi per la sicurezza sia sugli elaboratori sia sulle unità di rete, a cui seguirà comunicazione all’utente proprietario del file su cui si è effettuato l’intervento.   
 [:bookmark_tabs: Torna all'indice](#indice)  
 
-#### 6.1 Quote e spazio disponibile <a name="6.1"></a>  
+#### 7.1 Quote e spazio disponibile <a name="7.1"></a>  
 Ad ogni utente utilizzatore dei sistemi informatici del Comune di Piove di Sacco viene assicurato uno spazio limitato di risorse di rete dove memorizzare i propri dati, la quantità di spazio, definita quota, è calcolata in base alla disponibilità dei server e delle procedure di backup ad essi collegate.  
 Sono disponibili tre tipologie di risorsa di rete:  
 - **Spazio personale** (chiamato anche `Home directory`), che costituisce uno spazio privato accessibile solamente all'utente che ne è proprietario;  
@@ -278,90 +278,31 @@ Costituisce buona regola la periodica **(almeno ogni sei mesi)** cancellazione d
 Particolare attenzione deve essere prestata alla **duplicazione dei dati**. È infatti assolutamente da evitare un’archiviazione ridondante.  
 [:bookmark_tabs: Torna all'indice](#indice)  
 
-#### 7. Uso della posta elettronica <a name="7"></a> 
-La casella di posta elettronica, assegnata dal Comune di Piove di Sacco  
-all’utente, appartenente al dominio “comune.piove.pd.it” o altri domini  
-istituzionali utilizzati dal Comune di Piove di Sacco, è uno strumento di lavoro.  
-Le persone assegnatarie delle caselle di posta elettronica sono responsabili  
-del corretto utilizzo delle stesse.  
-È fatto divieto di utilizzare le caselle di posta elettronica aziendale per  
-l’invio di messaggi personali. Per la partecipazione a dibattiti, forum o mailing-  
-list è richiesta esplicita autorizzazione (in forma scritta tramite email).  
-È buona norma evitare messaggi completamente estranei al rapporto di  
-lavoro o alle relazioni tra colleghi. La casella di posta deve essere mantenuta  
-in ordine, cancellando documenti inutili e soprattutto allegati ingombranti.  
-Tutti i programmi di posta elettronica sono in grado di effettuare delle  
-ricerche nell'archivio della propria posta utilizzando come parametri di ricerca  
-almeno i seguenti campi: mittente, destinatario, data di invio/ricezione e  
-oggetto. Normalmente i primi 3 campi sono obbligatori mentre l'oggetto può  
-anche essere omesso, tuttavia questa è una pratica che viene vivamente  
-sconsigliata: la mancanza di un oggetto in una email la rende praticamente  
-invisibile con il conseguente rischio di aumentare inutilmente lo spazio  
-utilizzato nell'archivio a disposizione. Non è consigliabile nemmeno creare email  
-con un oggetto lunghissimo: qualora dovesse rendersi necessaria  
-l'esportazione del proprio archivio email in un supporto come un CD o un DVD,  
-il nome dell'oggetto, che solitamente viene preso come riferimento per il nome  
-del file, verrebbe troncato ai primi 207 caratteri (considerando anche il  
-percorso); si conclude quindi che l'inserimento di un l'oggetto in una email è  
-fortemente consigliato e deve essere il più sintetico e chiaro possibile.  
-La documentazione elettronica che costituisce per l’azienda “know how”  
-aziendale tecnico o commerciale protetto (tutelato in base all’art. 6 bis del r.d.  
-29.6.1939 n.1127), e che, quindi, viene contraddistinta da diciture od  
-avvertenze dirette ad evidenziarne il carattere riservato o segreto a tutela del  
-patrimonio dell’impresa, non può essere comunicata all’esterno senza  
-preventiva autorizzazione (in forma scritta tramite email) dell'Amministrazione  
-Comunale.  
-È possibile utilizzare la ricevuta di ritorno per avere la conferma  
-dell’avvenuta lettura del messaggio da parte del destinatario, ma di norma per  
-la comunicazione ufficiale è obbligatorio avvalersi degli strumenti tradizionali  
-(fax, posta, etc.). L'eccezione a questo si ha con l'uso della posta elettronica  
-certificata (PEC) il quale utilizzo è descritto al punto 6.2  
-Per la trasmissione di file all’interno del Comune di Piove di Sacco è  
-possibile utilizzare la posta elettronica, prestando attenzione alla dimensione  
-degli allegati; in alternativa è possibile usare il disco di rete “K:\” (presente in  
-tutti i PC collegati alla rete e visibile a tutti) il quale, essendo una risorsa di rete  
-speciale autorigenerante, conserva i dati contenuti per un tempo variabile da  
-uno a due giorni dopo i quali viene automaticamente svuotata. In questo  
-modo, se l'utente “A” deve passare dei file all'utente “B”, è sufficiente che “A”  
-memorizzi i file sul disco “K:\”, quindi l'utente “B”, accedendo al disco “K:\”  
-entro due giorni, trova i file a propria disposizione.  
-È obbligatorio controllare i file allegati di posta elettronica prima del loro  
-utilizzo (non eseguire download di file eseguibili o documenti da siti Web o Ftp  
-non conosciuti).  
-È vietato inviare catene telematiche (o di Sant’Antonio). Se si dovessero  
-ricevere messaggi di tale tipo, si deve comunicarlo immediatamente  
-all’Amministratore di Sistema. Non si devono in alcun caso attivare gli allegati  
-di tali messaggi.  
+#### 7.2 La Posta Elettronica Ordinaria (PEO)<a name="7.2"></a> 
+La casella di posta elettronica istituzionale del Comune di Piove di Sacco, formata dal `cognome` dell'utente (o combinazione cognome e nome) seguito da `@comune.piove.pd.it`, è uno strumento di lavoro messo a disposizione di ciascun dipendente. Ecco i principali punti su cui fare attenzione nell'uso della PEO:
+- **Utilizzo esclusivo per scopi istituzionali**: La casella di posta è destinata esclusivamente allo svolgimento delle attività lavorative.
+- **Responsabilità individuale**: Ogni dipendente è personalmente responsabile della propria casella e del materiale in essa contenuto.
+- **Autorizzazioni**: La partecipazione a dibattiti, forum e mailing list esterne deve essere preventivamente autorizzata.
+- **Contenuto dei messaggi**: I messaggi devono essere pertinenti alle attività lavorative e non devono contenere contenuti estranei al rapporto di lavoro.
+- **Ordine e pulizia**: È fondamentale mantenere la casella ordinata, cancellando periodicamente i messaggi inutili, soprattutto quelli con allegati di grandi dimensioni.
+- **Oggetto chiaro e conciso**: Ogni messaggio deve avere un oggetto chiaro e conciso, evitando oggetti troppo lunghi o privi di significato.
+- **Formato del testo**: È preferibile utilizzare sempre il formato testo semplice, evitando l'utilizzo di caratteri speciali nell'oggetto o nel corpo del messaggio.
+- **Ricevute di lettura e consegna**: L'utilizzo delle ricevute di lettura e consegna non è consigliato in quanto non aggiunge alcun valore alla comunicazione.
+- **Certificazione**: Per comunicazioni che richiedono una certificazione di invio e consegna, si consiglia di utilizzare la Posta Elettronica Certificata PEC (vedere [capitolo 7.3](#7.3)).
+- **Allegati**: È sconsigliato inviare o aprire allegati di grandi dimensioni o in formato binario. I file binari sono file che contengono dati codificati in un formato non leggibile direttamente, come file eseguibili (`EXE`,` COM`, `BAT`, `JS`) o file compressi (`ZIP`). Aprire un file binario sconosciuto può esporre il dispositivo a virus o malware. Per la condivisione di file di grandi dimensioni, si invitano gli utenti a utilizzare le risorse condivise o il servizio **Nextcloud** (vedere [capitolo 7.4](#7.4)). In caso di dubbi su un allegato, contattare l'Amministratore di Sistema.
+- **Catene di Sant'Antonio e schemi Ponzi**: È vietato inviare o diffondere qualsiasi tipo di [catena di Sant'Antonio](https://it.wikipedia.org/wiki/Catena_di_sant%27Antonio) o [schema Ponzi](https://it.wikipedia.org/wiki/Schema_Ponzi).
+
 [:bookmark_tabs: Torna all'indice](#indice)  
 
-#### 7.1 La Posta Elettronica Certificata (PEC) <a name="7.1"></a>  
-La posta elettronica certificata (PEC) è uno strumento che permette di  
-dare ad un messaggio di posta elettronica lo stesso valore legale di una  
-raccomandata con avviso di ricevimento tradizionale.  
-La posta elettronica certificata, infatti, per essere tale, deve seguire le  
-regole fissate dal DPR 68/2005 e dalle successive regole da esso previste.  
-Queste norme, insieme ad altre (in particolare il Codice dell’Amministrazione  
-Digitale), ne stabiliscono la validità legale, le regole e le modalità di utilizzo. In  
-particolare:  
-- Il servizio può essere erogato esclusivamente dai gestori accreditati  
-presso il CNIPA che è l’organo pubblico preposto al controllo della posta  
-elettronica certificata.  
-- Per la PEC devono essere usati domini dedicati (un dominio di PEC  
-non contiene caselle email non-PEC).
+#### 7.3 La Posta Elettronica Certificata (PEC) <a name="7.3"></a>  
+La posta elettronica certificata (PEC) è uno strumento che permette di dare ad un messaggio di posta elettronica lo stesso valore legale di una raccomandata con avviso di ricevimento tradizionale. Per la PEC devono essere usati domini di posta dedicati (un dominio di PEC non contiene caselle email non-PEC). Il dominio assegnato al Comune di Piove di Sacco è `@pec.comune.piove.pd.it`.
+Il Comune di Piove di Sacco ha attualmente attive le seguenti caselle di Posta Certificata:  
+| Indirizzo email | Ufficio Responsabile |  
+|---|---| 
+|polisportello@pec.comune.piove.pd.it|Servizio Polisportello presso Viale degli Alpini 1|
+|segreteria@pec.comune.piove.pd.it|Ufficio Segreteria in Piazza Matteotti 4|
+|pm@pec.comune.piove.pd.it|Comando di Polizia Locale presso Via Ortazzi 12|
 
-Il Comune di Piove di Sacco ha attualmente attive le seguenti caselle di  
-posta certificata:  
-Indirizzo email  
-Ufficio responsabile  
-polisportello@pec.comune.piove.pd.it  
-Ufficio Segreteria in Piazza Matteotti 4 e Servizio Polisportello  
-presso Viale degli Alpini 1  
-segreteria@pec.comune.piove.pd.it  
-Ufficio Segreteria in Piazza Matteotti 4  
-anagrafe@pec.comune.piove.pd.it  
-Ufficio Anagrafe e Stato Civile presso Viale degli Alpini 1  
-pm@pec.comune.piove.pd.it  
-Comando di Polizia Locale presso Via Ortazzi 12  
 La casella “polisportello@comune.piove.pd.it” è la casella principale dove  
 devono convergere tutte le comunicazioni atte ad innescare qualche tipo di  
 flusso documentale “Da” e “Per” gli Uffici Comunali in genere.  
@@ -387,7 +328,7 @@ utilità pratica o di qualche valenza legale, è una conseguenza di un aspetto
 tecnico legato alla gestione dei nomi di dominio nei DNS nazionali.  
 [:bookmark_tabs: Torna all'indice](#indice)  
 
-#### 7.2 Il servizio BoxRoom <a name="7.2"></a>  
+#### 7.4 Il servizio BoxRoom <a name="7.4"></a>  
 Il servizio BoxRoom è un particolare servizio di rete che permette agli  
 utenti del Comune di mettere a disposizione al mondo esterno file di grandi  
 dimensioni utilizzando internet. In questo modo l'uso di floppy disk, CD, DVD,  
@@ -405,7 +346,7 @@ La documentazione sull'utilizzo del servizio BoxRoom è disponibile
 all'indirizzo intranet “https://linux.comune.piove.pd.it/dps/index.php4”.  
 [:bookmark_tabs: Torna all'indice](#indice)  
 
-#### 6.4 Uso della rete Internet e dei relativi servizi <a name="6.4"></a>  
+####  Uso della rete Internet e dei relativi servizi <a name=""></a>  
 L'accesso a Internet avviene in due modalità: la prima, o “Modalità a lista  
 bianca”, è quella consentita a tutti gli utenti della rete comunale e prevede una  
 navigazione libera verso tutti i siti appartenenti ad una lista di siti sicuri; la  
@@ -442,7 +383,7 @@ inoltre, qualora dovesse presentarsi l'eventualità, possono essere consegnati
 alle Autorità competenti su specifica richiesta.  
 [:bookmark_tabs: Torna all'indice](#indice)  
 
-### 7 Teleassistenza o Assistenza Remota <a name="7"></a>  
+### 8 Teleassistenza o Assistenza Remota <a name="8"></a>  
 Con questi termini si definisce l'azione di prendere il controllo di un PC  
 senza fisicamente recarsi nel luogo dove il PC è installato; per fare questo è  
 necessario che il PC sia acceso e collegato alla rete informatica; chi presta  
@@ -485,14 +426,7 @@ L'utilizzo di apparecchiature non fornite dall'Ufficio C.E.D., o comunque non pr
 Resta comunque valido il divieto di collegare queste apparecchiature alla rete comunale o rimpiazzare un dispositivo informatico registrato con uno non registrato nell'Inventario Informatico. L'utente che utilizza tali apparecchiature si assume tutte le responsabilità e se ne accolla gli oneri derivati dalla manutenzione, dalla gestione e dalla messa in sicurezza come meglio descritto nel capitolo 12. Qualora un Ufficio o Servizio Comunale attivi in autonomia un sistema informatico dedicato su cui vengono trattati dati riservati o sensibili dovrà provvedere autonomamente a garantire ed onorare le [disposizioni consigliate dall'AGiD](https://www.agid.gov.it/it/linee-guida) incluse le regole e disposizioni citate nel [Codice Privacy](https://www.garanteprivacy.it/codice), le misure previste dal [Piano Triennale vigente](https://www.agid.gov.it/it/agenzia/piano-triennale) e le [Misure Minime di sicurezza](https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict) obbligatorie.   
 [:bookmark_tabs: Torna all'indice](#indice)  
 
-### 12 Informazioni riservate <a name="12"></a>  
-Per garantire un ulteriore livello di sicurezza sull'impianto informatico e sugli apparati elettronici in funzione all'interno del Comune è opportuno che non venga divulgata pubblicamente, senza previa autorizzazione dell'Ufficio C.E.D., alcuna informazione di tipo tecnico o finanziario da cui potrebbe essere eseguita un'attività di [Cracking](https://it.wikipedia.org/wiki/Cracking_(informatica)) o [Social Engineering](https://it.wikipedia.org/wiki/Ingegneria_sociale) al fine di compiere [Cyber Attacchi](https://it.wikipedia.org/wiki/Attacco_informatico).   
-Esempi di informazioni da non divulgare sono: il numero di PC installati, i nomi delle aziende che provvedono alla manutenzione, la data di acquisto delle apparecchiature, l'ammontare annuo delle spese di manutenzione, l'ammontare annuo degli investimenti, etc.   
-Tali dati inoltre, qualora contengano nomi di società o indirizzi di posta elettronica o altri dati riservati, devono rimanere particolarmente tutelati per non incorrere involontariamente al fenomeno dello [Spam](https://it.wikipedia.org/wiki/Spam) o peggio alla violazione degli articoli 23 e 25 del [Dlgs. 196/2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig).   
-Per questi motivi sono inoltre **vietate le interviste telefoniche** e la **compilazione di questionari** cartacei o elettronici con finalità di raccolta dati tranne nei casi in cui l'azienda richiedente stia operando su mandato particolare dello Stato (es. censimenti ISTAT, richieste del Prefetto, etc.).   
-[:bookmark_tabs: Torna all'indice](#indice)    
-  
-### 12 Manutenzioni, riparazioni e aggiornamenti <a name="12"></a>  
+### 11 Manutenzioni, riparazioni e aggiornamenti <a name="11"></a>  
 Le operazioni di aggiornamento e di manutenzione hardware/software  
 vengono svolte dai Tecnici Informatici dell'Ufficio C.E.D., o da incaricati esterni autorizzati,  
 solamente sulle macchine appartenenti all'Inventario dei Dispositivi Informatici  
@@ -507,6 +441,14 @@ apparecchiature non appartenenti all'Inventario dei Dispositivi Informatici, sar
 cura del responsabile delle apparecchiature attivare un contratto di  
 manutenzione con una ditta esterna.  
 [:bookmark_tabs: Torna all'indice](#indice)  
+
+### 12 Informazioni riservate <a name="12"></a>  
+Per garantire un ulteriore livello di sicurezza sull'impianto informatico e sugli apparati elettronici in funzione all'interno del Comune è opportuno che non venga divulgata pubblicamente, senza previa autorizzazione dell'Ufficio C.E.D., alcuna informazione di tipo tecnico o finanziario da cui potrebbe essere eseguita un'attività di [Cracking](https://it.wikipedia.org/wiki/Cracking_(informatica)) o [Social Engineering](https://it.wikipedia.org/wiki/Ingegneria_sociale) al fine di compiere [Cyber Attacchi](https://it.wikipedia.org/wiki/Attacco_informatico).   
+Esempi di informazioni da non divulgare sono: il numero di PC installati, i nomi delle aziende che provvedono alla manutenzione, la data di acquisto delle apparecchiature, l'ammontare annuo delle spese di manutenzione, l'ammontare annuo degli investimenti, etc.   
+Tali dati inoltre, qualora contengano nomi di società o indirizzi di posta elettronica o altri dati riservati, devono rimanere particolarmente tutelati per non incorrere involontariamente al fenomeno dello [Spam](https://it.wikipedia.org/wiki/Spam) o peggio alla violazione degli articoli 23 e 25 del [Dlgs. 196/2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196!vig).   
+Per questi motivi sono inoltre **vietate le interviste telefoniche** e la **compilazione di questionari** cartacei o elettronici con finalità di raccolta dati tranne nei casi in cui l'azienda richiedente stia operando su mandato particolare dello Stato (es. censimenti ISTAT, richieste del Prefetto, etc.).   
+[:bookmark_tabs: Torna all'indice](#indice)    
+  
 
 ### 13 Osservanza delle disposizioni in materia di Privacy <a name="13"></a>  
 È obbligatorio attenersi alle disposizioni in materia di Privacy e di misure  
