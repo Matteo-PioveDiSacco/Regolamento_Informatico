@@ -20,8 +20,8 @@
 
 [5 Il Software](#5)  
 >[5.1 Software di base preinstallato](#5.1)  
->[5.2 Installazione di nuovo software](5.2)  
->[5.3 Software in Cloud](5.3)
+>[5.2 Installazione di nuovo software](#5.2)  
+>[5.3 Software in Cloud](#5.3)
 
 [6 Sicurezza](#6)  
 >[6.1 Gestione delle password](#6.1)  
