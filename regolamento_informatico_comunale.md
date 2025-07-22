@@ -97,7 +97,9 @@ Per garantire una gestione efficiente e ordinata dei file memorizzati nel PC o n
   > E' disponibile un tutorial che mostra come eliminare i file che occupano tanto spazio nella pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo_ [![Static Badge](https://img.shields.io/badge/Link-Liberare%20spazio%20su%20disco-%23e14f4f?style=plastic&logo=youtube)](https://youtu.be/XocL2Mg6Nag).   
     
 - **Optare per la memorizzazione nel gestionale**: Dove possibile, memorizzare i file come allegati al fascicolo nel gestionale dell'ente piuttosto che nel filesystem del fileserver, per una migliore integrazione e accessibilità.   
-Adottare questi accorgimenti contribuisce a mantenere le risorse di rete ben organizzate e funzionali, migliorando l'efficienza e riducendo i rischi di gestione e sicurezza.   
+Adottare questi accorgimenti contribuisce a mantenere le risorse di rete ben organizzate e funzionali, migliorando l'efficienza e riducendo i rischi di gestione e sicurezza.
+  >:bulb: _Suggerimento:  
+  > E' disponibile un tutorial che mostra come archiviare i file nel gestionale Maggioli nella pagina Youtube dedicata alla **Formazione Informatica per il Personale del Comune** da questo_ [![Static Badge](https://img.shields.io/badge/Link-Cartelline%20Digitali-%230073a6?style=plastic&logo=youtube)](https://youtu.be/npKgwwyuIFo).     
 [:bookmark_tabs: Torna all'indice](#indice)    
   
 #### 4.3 I Computer Portatili <a name="4.3"></a>   
